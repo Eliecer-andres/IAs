@@ -1,21 +1,28 @@
 [
   {
-    "comuna": "Ohiggins",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-24",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-11-23",
+        "fecha": "2025-11-20",
+        "hora_inicio": 5,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-21",
         "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-22",
+        "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-23",
+        "hora_inicio": 16,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
@@ -27,8 +34,20 @@
       },
       {
         "fecha": "2025-11-25",
+        "hora_inicio": 9,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-25",
         "hora_inicio": 17,
         "hora_fin": 18,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-26",
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -291,6 +310,10 @@
   },
   {
     "comuna": "Nueva Imperial",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
