@@ -1,73 +1,29 @@
 [
   {
-    "comuna": "Futaleufu",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "San Rosendo",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-28",
-        "hora_inicio": 10,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-28",
-        "hora_inicio": 10,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Valdivia",
-    "rango_alertas": [
-      {
-        "fecha": "2025-11-29",
-        "hora_inicio": 11,
-        "hora_fin": 12,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-11-23",
-        "hora_inicio": 17,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2025-11-24",
-        "hora_inicio": 17,
+        "hora_inicio": 18,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2025-11-25",
-        "hora_inicio": 16,
+        "hora_inicio": 17,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-11-27",
-        "hora_inicio": 18,
+        "fecha": "2025-11-30",
+        "hora_inicio": 17,
         "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-01",
+        "hora_inicio": 18,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -206,6 +162,10 @@
   },
   {
     "comuna": "Frutillar",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -469,6 +429,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
@@ -493,11 +457,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Tome",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Traiguen",
     "rango_alertas": []
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
