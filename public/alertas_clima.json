@@ -1,16 +1,44 @@
 [
   {
+    "comuna": "Calbuco",
+    "rango_alertas": [
+      {
+        "fecha": "2025-11-29",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Muermos",
+    "rango_alertas": [
+      {
+        "fecha": "2025-11-29",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-11-24",
-        "hora_inicio": 18,
-        "hora_fin": 21,
+        "fecha": "2025-11-25",
+        "hora_inicio": 17,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-11-25",
-        "hora_inicio": 17,
+        "fecha": "2025-11-26",
+        "hora_inicio": 19,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-11-27",
+        "hora_inicio": 18,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
@@ -54,10 +82,6 @@
   },
   {
     "comuna": "Cabrero",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Calbuco",
     "rango_alertas": []
   },
   {
@@ -238,10 +262,6 @@
   },
   {
     "comuna": "Los Lagos",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Los Muermos",
     "rango_alertas": []
   },
   {
