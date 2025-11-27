@@ -1,13 +1,18 @@
 [
   {
-    "comuna": "Villarrica",
+    "comuna": "Queilen",
     "rango_alertas": [
       {
-        "fecha": "2025-11-26",
-        "hora_inicio": 21,
-        "hora_fin": 21,
+        "fecha": "2025-11-29",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
       {
         "fecha": "2025-11-27",
         "hora_inicio": 17,
@@ -15,15 +20,15 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-11-30",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "fecha": "2025-12-03",
+        "hora_inicio": 17,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-01",
-        "hora_inicio": 22,
-        "hora_fin": 23,
+        "fecha": "2025-12-04",
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -362,10 +367,6 @@
   },
   {
     "comuna": "Puyehue",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Queilen",
     "rango_alertas": []
   },
   {
