@@ -1,5 +1,33 @@
 [
   {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-11",
+        "hora_inicio": 4,
+        "hora_fin": 4,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-11",
+        "hora_inicio": 10,
+        "hora_fin": 12,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Valdivia",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-11",
+        "hora_inicio": 4,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
@@ -10,7 +38,7 @@
       },
       {
         "fecha": "2025-12-07",
-        "hora_inicio": 16,
+        "hora_inicio": 15,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
@@ -22,20 +50,32 @@
       },
       {
         "fecha": "2025-12-09",
+        "hora_inicio": 1,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-09",
+        "hora_inicio": 9,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-09",
         "hora_inicio": 17,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2025-12-10",
-        "hora_inicio": 18,
-        "hora_fin": 23,
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2025-12-11",
-        "hora_inicio": 17,
-        "hora_fin": 20,
+        "hora_inicio": 1,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -453,10 +493,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Temuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -478,10 +514,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
