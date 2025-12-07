@@ -1,11 +1,11 @@
 [
   {
-    "comuna": "Temuco",
+    "comuna": "Futaleufu",
     "rango_alertas": [
       {
-        "fecha": "2025-12-12",
-        "hora_inicio": 13,
-        "hora_fin": 16,
+        "fecha": "2025-12-13",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -14,12 +14,6 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-12-06",
-        "hora_inicio": 18,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2025-12-07",
         "hora_inicio": 15,
         "hora_fin": 20,
@@ -27,32 +21,26 @@
       },
       {
         "fecha": "2025-12-08",
-        "hora_inicio": 18,
-        "hora_fin": 22,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-10",
-        "hora_inicio": 20,
+        "hora_inicio": 16,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-11",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2025-12-09",
+        "hora_inicio": 9,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-11",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "fecha": "2025-12-09",
+        "hora_inicio": 16,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-12",
+        "fecha": "2025-12-10",
         "hora_inicio": 17,
-        "hora_fin": 18,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -191,10 +179,6 @@
   },
   {
     "comuna": "Frutillar",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -467,6 +451,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
