@@ -1,17 +1,11 @@
 [
   {
-    "comuna": "Valdivia",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
-        "fecha": "2025-12-12",
-        "hora_inicio": 7,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-12",
-        "hora_inicio": 12,
-        "hora_fin": 12,
+        "fecha": "2025-12-13",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -20,46 +14,24 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-12-08",
-        "hora_inicio": 17,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2025-12-09",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-09",
-        "hora_inicio": 2,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-09",
-        "hora_inicio": 9,
+        "hora_inicio": 10,
         "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2025-12-09",
         "hora_inicio": 17,
-        "hora_fin": 21,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2025-12-10",
         "hora_inicio": 17,
-        "hora_fin": 21,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -495,6 +467,10 @@
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
