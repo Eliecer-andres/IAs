@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Alto Bio Bio",
+    "comuna": "Lonquimay",
     "rango_alertas": [
       {
         "fecha": "2025-12-13",
@@ -14,24 +14,40 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-12-09",
-        "hora_inicio": 10,
+        "fecha": "2025-12-10",
+        "hora_inicio": 18,
+        "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-11",
+        "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-12",
+        "hora_inicio": 9,
         "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-09",
-        "hora_inicio": 17,
-        "hora_fin": 18,
+        "fecha": "2025-12-12",
+        "hora_inicio": 12,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-10",
+        "fecha": "2025-12-17",
         "hora_inicio": 17,
-        "hora_fin": 23,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       }
     ]
+  },
+  {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -223,10 +239,6 @@
   },
   {
     "comuna": "Loncoche",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lonquimay",
     "rango_alertas": []
   },
   {
