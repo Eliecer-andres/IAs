@@ -1,38 +1,5 @@
 [
   {
-    "comuna": "Ercilla",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-13",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Frutillar",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-13",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Futaleufu",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Lonquimay",
     "rango_alertas": [
       {
@@ -44,29 +11,12 @@
     ]
   },
   {
-    "comuna": "Valdivia",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-15",
-        "hora_inicio": 6,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-12-12",
-        "hora_inicio": 17,
-        "hora_fin": 17,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2025-12-17",
         "hora_inicio": 17,
-        "hora_fin": 22,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -188,6 +138,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Ercilla",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Florida",
     "rango_alertas": []
   },
@@ -197,6 +151,14 @@
   },
   {
     "comuna": "Fresia",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Frutillar",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -493,6 +455,10 @@
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
