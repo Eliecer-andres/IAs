@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Angol",
+    "comuna": "Frutillar",
     "rango_alertas": [
       {
         "fecha": "2025-12-20",
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "comuna": "Cunco",
+    "comuna": "Futaleufu",
     "rango_alertas": [
       {
         "fecha": "2025-12-20",
@@ -22,122 +22,23 @@
     ]
   },
   {
-    "comuna": "Curarrehue",
+    "comuna": "San Rosendo",
     "rango_alertas": [
       {
         "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "hora_inicio": 10,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Freire",
+    "comuna": "Victoria",
     "rango_alertas": [
       {
         "fecha": "2025-12-20",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Gorbea",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Loncoche",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Nueva Imperial",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Panguipulli",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Pitrufquen",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quellon",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-19",
-        "hora_inicio": 22,
-        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -146,6 +47,12 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
+        "fecha": "2025-12-17",
+        "hora_inicio": 20,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2025-12-18",
         "hora_inicio": 8,
         "hora_fin": 8,
@@ -153,26 +60,14 @@
       },
       {
         "fecha": "2025-12-18",
-        "hora_inicio": 17,
+        "hora_inicio": 18,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-19",
-        "hora_inicio": 19,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 0,
-        "hora_fin": 1,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-21",
+        "fecha": "2025-12-22",
         "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -183,6 +78,10 @@
   },
   {
     "comuna": "Ancud",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Angol",
     "rango_alertas": []
   },
   {
@@ -262,6 +161,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Cunco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curacautin",
     "rango_alertas": []
   },
@@ -271,6 +174,10 @@
   },
   {
     "comuna": "Curanilahue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curarrehue",
     "rango_alertas": []
   },
   {
@@ -290,15 +197,11 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Freire",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Fresia",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Frutillar",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -307,6 +210,10 @@
   },
   {
     "comuna": "Galvarino",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Gorbea",
     "rango_alertas": []
   },
   {
@@ -334,6 +241,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lanco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lautaro",
     "rango_alertas": []
   },
@@ -343,6 +254,10 @@
   },
   {
     "comuna": "Llanquihue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Loncoche",
     "rango_alertas": []
   },
   {
@@ -390,6 +305,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Melipeuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Mulchen",
     "rango_alertas": []
   },
@@ -399,6 +318,10 @@
   },
   {
     "comuna": "Negrete",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Nueva Imperial",
     "rango_alertas": []
   },
   {
@@ -422,6 +345,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Panguipulli",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Pemuco",
     "rango_alertas": []
   },
@@ -431,6 +358,10 @@
   },
   {
     "comuna": "Pinto",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Pitrufquen",
     "rango_alertas": []
   },
   {
@@ -471,6 +402,10 @@
   },
   {
     "comuna": "Queilen",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quellon",
     "rango_alertas": []
   },
   {
@@ -530,15 +465,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -567,10 +502,6 @@
   },
   {
     "comuna": "Valdivia",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Victoria",
     "rango_alertas": []
   },
   {
