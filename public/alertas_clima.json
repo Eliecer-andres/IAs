@@ -1,30 +1,65 @@
 [
   {
-    "comuna": "Villarrica",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
-        "fecha": "2025-12-17",
-        "hora_inicio": 19,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-18",
-        "hora_inicio": 17,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2025-12-24",
-        "hora_inicio": 18,
-        "hora_fin": 21,
+        "fecha": "2025-12-21",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
+    "comuna": "Coyhaique",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-24",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Lago Verde",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-24",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-18",
+        "hora_inicio": 17,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-22",
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-24",
+        "hora_inicio": 7,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-25",
+        "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
   },
   {
     "comuna": "Ancud",
@@ -107,10 +142,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Coyhaique",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Cunco",
     "rango_alertas": []
   },
@@ -188,10 +219,6 @@
   },
   {
     "comuna": "Lago Ranco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lago Verde",
     "rango_alertas": []
   },
   {
