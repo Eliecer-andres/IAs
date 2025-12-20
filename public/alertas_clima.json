@@ -11,7 +11,7 @@
     ]
   },
   {
-    "comuna": "Curacautin",
+    "comuna": "Antuco",
     "rango_alertas": [
       {
         "fecha": "2025-12-21",
@@ -22,18 +22,7 @@
     ]
   },
   {
-    "comuna": "Curarrehue",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-21",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
+    "comuna": "Lonquimay",
     "rango_alertas": [
       {
         "fecha": "2025-12-21",
@@ -55,6 +44,17 @@
     ]
   },
   {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2025-12-20",
+        "hora_inicio": 13,
+        "hora_fin": 13,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Valdivia",
     "rango_alertas": [
       {
@@ -70,8 +70,8 @@
     "rango_alertas": [
       {
         "fecha": "2025-12-20",
-        "hora_inicio": 12,
-        "hora_fin": 12,
+        "hora_inicio": 11,
+        "hora_fin": 13,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -81,8 +81,8 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-25",
-        "hora_inicio": 18,
+        "fecha": "2025-12-27",
+        "hora_inicio": 19,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
@@ -94,10 +94,6 @@
   },
   {
     "comuna": "Angol",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Antuco",
     "rango_alertas": []
   },
   {
@@ -177,11 +173,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Curacautin",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curaco De Velez",
     "rango_alertas": []
   },
   {
     "comuna": "Curanilahue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curarrehue",
     "rango_alertas": []
   },
   {
@@ -273,10 +277,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Lonquimay",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Alamos",
     "rango_alertas": []
   },
@@ -314,6 +314,10 @@
   },
   {
     "comuna": "Maullin",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Melipeuco",
     "rango_alertas": []
   },
   {
@@ -478,10 +482,6 @@
   },
   {
     "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
