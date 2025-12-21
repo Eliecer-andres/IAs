@@ -11,7 +11,7 @@
     ]
   },
   {
-    "comuna": "Antuco",
+    "comuna": "Cunco",
     "rango_alertas": [
       {
         "fecha": "2025-12-21",
@@ -33,34 +33,12 @@
     ]
   },
   {
-    "comuna": "Ohiggins",
+    "comuna": "Melipeuco",
     "rango_alertas": [
       {
-        "fecha": "2025-12-22",
+        "fecha": "2025-12-21",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 13,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Valdivia",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-20",
-        "hora_inicio": 8,
-        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -69,20 +47,20 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2025-12-20",
-        "hora_inicio": 11,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2025-12-24",
-        "hora_inicio": 19,
+        "hora_inicio": 18,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2025-12-27",
-        "hora_inicio": 19,
+        "fecha": "2025-12-25",
+        "hora_inicio": 17,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-28",
+        "hora_inicio": 17,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
@@ -94,6 +72,10 @@
   },
   {
     "comuna": "Angol",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Antuco",
     "rango_alertas": []
   },
   {
@@ -166,10 +148,6 @@
   },
   {
     "comuna": "Coyhaique",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Cunco",
     "rango_alertas": []
   },
   {
@@ -317,10 +295,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Melipeuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Mulchen",
     "rango_alertas": []
   },
@@ -334,6 +308,10 @@
   },
   {
     "comuna": "Nueva Imperial",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
@@ -485,6 +463,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Temuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -506,6 +488,10 @@
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
