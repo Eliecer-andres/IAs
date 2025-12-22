@@ -1,9 +1,9 @@
 [
   {
-    "comuna": "Alto Bio Bio",
+    "comuna": "Coyhaique",
     "rango_alertas": [
       {
-        "fecha": "2025-12-21",
+        "fecha": "2025-12-29",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -11,32 +11,10 @@
     ]
   },
   {
-    "comuna": "Cunco",
+    "comuna": "Puerto Cisnes",
     "rango_alertas": [
       {
-        "fecha": "2025-12-21",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lonquimay",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-21",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
-    "rango_alertas": [
-      {
-        "fecha": "2025-12-21",
+        "fecha": "2025-12-29",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -54,8 +32,8 @@
       },
       {
         "fecha": "2025-12-25",
-        "hora_inicio": 17,
-        "hora_fin": 21,
+        "hora_inicio": 18,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -63,8 +41,18 @@
         "hora_inicio": 17,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2025-12-29",
+        "hora_inicio": 17,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
       }
     ]
+  },
+  {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -147,7 +135,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Coyhaique",
+    "comuna": "Cunco",
     "rango_alertas": []
   },
   {
@@ -255,6 +243,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lonquimay",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Los Alamos",
     "rango_alertas": []
   },
@@ -292,6 +284,10 @@
   },
   {
     "comuna": "Maullin",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Melipeuco",
     "rango_alertas": []
   },
   {
@@ -352,10 +348,6 @@
   },
   {
     "comuna": "Pucon",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Puerto Cisnes",
     "rango_alertas": []
   },
   {
