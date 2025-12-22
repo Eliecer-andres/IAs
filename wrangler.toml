@@ -1,0 +1,8 @@
+name = "inbound-saesa"
+pages_build_output_dir = "dist"
+compatibility_date = "2024-04-05"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bdd"
+database_id = "8a112458-004a-49f0-992e-37edc14f9c19"

@@ -1,0 +1,230 @@
+:root {
+  --sidebar-bg: #0f172a;       
+  --sidebar-border: #1e293b;   
+  --text-main: #cbd5e1;        
+  --text-muted: #64748b;       
+  --accent-color: #2563eb;     
+  --hover-bg: #1e293b;         
+  --white: #ffffff;
+  
+  /* Medidas */
+  --sidebar-width-collapsed: 70px;
+  --sidebar-width-expanded: 260px;
+}
+
+/* --- CONTENEDOR PRINCIPAL --- */
+.sidebar-container {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  background-color: var(--sidebar-bg);
+  color: var(--text-main);
+  border-right: 1px solid var(--sidebar-border);
+  z-index: 50;
+  
+  /* Animación suave de ancho */
+  width: var(--sidebar-width-collapsed);
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  
+  display: flex;
+  flex-direction: column;
+  overflow: hidden; /* Oculta el texto cuando está colapsado */
+  box-shadow: 4px 0 15px rgba(0,0,0,0.1);
+}
+
+/* EXPANDIR AL PASAR EL MOUSE (Solo en PC) */
+@media (min-width: 769px) {
+  .sidebar-container:hover {
+    width: var(--sidebar-width-expanded);
+    box-shadow: 10px 0 25px rgba(0,0,0,0.3);
+  }
+}
+
+/* --- ELEMENTOS INTERNOS --- */
+
+/* Header */
+.sidebar-header {
+  height: 64px;
+  min-height: 64px;
+  display: flex;
+  align-items: center;
+  padding: 0 18px; /* Ajustado para centrar icono cuando colapsado */
+  border-bottom: 1px solid var(--sidebar-border);
+  white-space: nowrap;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-weight: bold;
+  color: var(--white);
+  font-size: 1.25rem;
+}
+
+.brand-icon {
+  height: 32px;
+  width: 32px;
+  min-width: 32px; /* Evita que se aplaste */
+  border-radius: 8px;
+  background-color: var(--accent-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}
+
+/* Textos que se ocultan/muestran */
+.brand-text, 
+.nav-text, 
+.user-info, 
+.menu-label-text,
+.config-text {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none; /* Evita clicks fantasmas */
+}
+
+/* Cuando el sidebar se expande (hover o móvil abierto) mostramos textos */
+.sidebar-container:hover .brand-text,
+.sidebar-container:hover .nav-text,
+.sidebar-container:hover .user-info,
+.sidebar-container:hover .menu-label-text,
+.sidebar-container:hover .config-text,
+.sidebar-container.mobile-open .brand-text,
+.sidebar-container.mobile-open .nav-text,
+.sidebar-container.mobile-open .user-info,
+.sidebar-container.mobile-open .menu-label-text,
+.sidebar-container.mobile-open .config-text {
+  opacity: 1;
+  pointer-events: auto;
+  transition-delay: 0.1s; /* Pequeño retraso para que se vea bien */
+}
+
+/* Navegación */
+.sidebar-nav {
+  flex: 1;
+  padding: 20px 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.menu-label {
+  padding: 0 10px;
+  height: 20px;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  
+  /* El texto de etiqueta también se desvanece */
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+}
+
+/* Separador visual cuando está colapsado (opcional) */
+.menu-label::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-color: var(--sidebar-border);
+  display: none; /* Solo visible si quisieras un separador */
+}
+
+.nav-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: transparent;
+  color: var(--text-main);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  margin-bottom: 4px;
+  white-space: nowrap; /* Evita que el texto salte de línea */
+}
+
+.nav-button:hover {
+  background-color: var(--hover-bg);
+  color: var(--white);
+}
+
+.nav-button.active {
+  background-color: var(--accent-color);
+  color: var(--white);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.4);
+}
+
+/* Iconos siempre visibles y centrados en modo colapsado */
+.nav-icon {
+  min-width: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Footer */
+.sidebar-footer {
+  padding: 12px;
+  border-top: 1px solid var(--sidebar-border);
+  overflow: hidden;
+}
+
+.user-profile {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: rgba(2, 6, 23, 0.3);
+  white-space: nowrap;
+  transition: background 0.2s;
+}
+
+.avatar {
+  height: 36px;
+  width: 36px;
+  min-width: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #6366f1, #a855f7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: white;
+  font-size: 0.85rem;
+  border: 2px solid var(--sidebar-border);
+}
+
+/* --- MÓVIL (Celular) --- */
+@media (max-width: 768px) {
+  .sidebar-container {
+    width: var(--sidebar-width-expanded); /* En móvil siempre ancho completo al abrir */
+    transform: translateX(-100%); /* Escondido a la izquierda */
+    transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .sidebar-container.mobile-open {
+    transform: translateX(0); /* Se desliza a la vista */
+    box-shadow: 50px 0 100px rgba(0,0,0,0.5); /* Sombra gigante para oscurecer fondo */
+  }
+
+  /* Overlay oscuro para cerrar al hacer click fuera (simulado con div en JSX o sombra) */
+  .mobile-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 40;
+    backdrop-filter: blur(2px);
+  }
+}
