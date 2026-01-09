@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Futaleufu",
+    "comuna": "Quellon",
     "rango_alertas": [
       {
         "fecha": "2026-01-14",
@@ -11,20 +11,19 @@
     ]
   },
   {
-    "comuna": "Villarrica",
+    "comuna": "Rio Ibañez",
     "rango_alertas": [
       {
-        "fecha": "2026-01-08",
+        "fecha": "2026-01-12",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-01-08",
-        "hora_inicio": 15,
-        "hora_fin": 22,
-        "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
       {
         "fecha": "2026-01-09",
         "hora_inicio": 16,
@@ -40,19 +39,31 @@
       {
         "fecha": "2026-01-12",
         "hora_inicio": 18,
-        "hora_fin": 20,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-13",
+        "hora_inicio": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-14",
         "hora_inicio": 18,
-        "hora_fin": 21,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-15",
-        "hora_inicio": 16,
+        "hora_inicio": 17,
         "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-16",
+        "hora_inicio": 16,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -191,6 +202,10 @@
   },
   {
     "comuna": "Frutillar",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -394,10 +409,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Quellon",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Quemchi",
     "rango_alertas": []
   },
@@ -427,10 +438,6 @@
   },
   {
     "comuna": "Rio Bueno",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
