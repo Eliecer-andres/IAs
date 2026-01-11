@@ -1,5 +1,16 @@
 [
   {
+    "comuna": "Coyhaique",
+    "rango_alertas": [
+      {
+        "fecha": "2026-01-14",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Puerto Cisnes",
     "rango_alertas": [
       {
@@ -26,8 +37,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-01-14",
-        "hora_inicio": 13,
-        "hora_fin": 13,
+        "hora_inicio": 10,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -36,38 +47,32 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-01-10",
-        "hora_inicio": 18,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-01-11",
-        "hora_inicio": 20,
-        "hora_fin": 20,
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-12",
         "hora_inicio": 18,
-        "hora_fin": 20,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-13",
         "hora_inicio": 17,
-        "hora_fin": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-01-14",
-        "hora_inicio": 16,
-        "hora_fin": 18,
+        "fecha": "2026-01-15",
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-16",
-        "hora_inicio": 17,
+        "hora_inicio": 16,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
@@ -75,6 +80,12 @@
         "fecha": "2026-01-17",
         "hora_inicio": 18,
         "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-18",
+        "hora_inicio": 17,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -161,10 +172,6 @@
   },
   {
     "comuna": "Corral",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Coyhaique",
     "rango_alertas": []
   },
   {
