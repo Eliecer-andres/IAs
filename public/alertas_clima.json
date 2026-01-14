@@ -36,15 +36,15 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-01-13",
-        "hora_inicio": 17,
-        "hora_fin": 20,
+        "fecha": "2026-01-14",
+        "hora_inicio": 19,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-01-14",
+        "fecha": "2026-01-15",
         "hora_inicio": 19,
-        "hora_fin": 21,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -55,7 +55,7 @@
       },
       {
         "fecha": "2026-01-17",
-        "hora_inicio": 18,
+        "hora_inicio": 19,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
@@ -67,14 +67,20 @@
       },
       {
         "fecha": "2026-01-19",
-        "hora_inicio": 16,
+        "hora_inicio": 10,
         "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-20",
         "hora_inicio": 17,
-        "hora_fin": 19,
+        "hora_fin": 18,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-21",
+        "hora_inicio": 18,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       }
     ]
