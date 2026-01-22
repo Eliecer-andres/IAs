@@ -1,13 +1,40 @@
 [
   {
-    "comuna": "Villarrica",
+    "comuna": "Cochrane",
     "rango_alertas": [
       {
-        "fecha": "2026-01-21",
-        "hora_inicio": 17,
-        "hora_fin": 21,
+        "fecha": "2026-01-26",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Ohiggins",
+    "rango_alertas": [
+      {
+        "fecha": "2026-01-28",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Rio Ibañez",
+    "rango_alertas": [
+      {
+        "fecha": "2026-01-26",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
       {
         "fecha": "2026-01-22",
         "hora_inicio": 17,
@@ -22,20 +49,20 @@
       },
       {
         "fecha": "2026-01-24",
-        "hora_inicio": 17,
+        "hora_inicio": 18,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-25",
-        "hora_inicio": 16,
+        "hora_inicio": 17,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-26",
-        "hora_inicio": 18,
-        "hora_fin": 20,
+        "hora_inicio": 17,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -53,6 +80,24 @@
       {
         "fecha": "2026-01-28",
         "hora_inicio": 10,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-29",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-29",
+        "hora_inicio": 7,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-29",
+        "hora_inicio": 16,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
@@ -120,10 +165,6 @@
   },
   {
     "comuna": "Cochamo",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Cochrane",
     "rango_alertas": []
   },
   {
@@ -319,10 +360,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Ohiggins",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Osorno",
     "rango_alertas": []
   },
@@ -432,10 +469,6 @@
   },
   {
     "comuna": "Rio Bueno",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
