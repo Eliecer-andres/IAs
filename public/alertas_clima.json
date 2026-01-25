@@ -1,9 +1,9 @@
 [
   {
-    "comuna": "Chaiten",
+    "comuna": "Castro",
     "rango_alertas": [
       {
-        "fecha": "2026-01-26",
+        "fecha": "2026-01-28",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -22,14 +22,19 @@
     ]
   },
   {
-    "comuna": "Villarrica",
+    "comuna": "Hualaihue",
     "rango_alertas": [
       {
-        "fecha": "2026-01-24",
-        "hora_inicio": 18,
-        "hora_fin": 20,
+        "fecha": "2026-01-26",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
       {
         "fecha": "2026-01-25",
         "hora_inicio": 18,
@@ -45,49 +50,43 @@
       {
         "fecha": "2026-01-27",
         "hora_inicio": 17,
-        "hora_fin": 18,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-28",
-        "hora_inicio": 10,
-        "hora_fin": 12,
+        "hora_inicio": 9,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-01-28",
+        "fecha": "2026-01-29",
+        "hora_inicio": 0,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-01-29",
         "hora_inicio": 14,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-01-29",
-        "hora_inicio": 0,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-01-29",
-        "hora_inicio": 15,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-01-30",
         "hora_inicio": 0,
-        "hora_fin": 1,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-01-30",
-        "hora_inicio": 9,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-01-30",
-        "hora_inicio": 16,
+        "fecha": "2026-01-31",
+        "hora_inicio": 18,
         "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-02-01",
+        "hora_inicio": 15,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -129,11 +128,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Castro",
+    "comuna": "Cañete",
     "rango_alertas": []
   },
   {
-    "comuna": "Cañete",
+    "comuna": "Chaiten",
     "rango_alertas": []
   },
   {
@@ -234,10 +233,6 @@
   },
   {
     "comuna": "Gorbea",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Hualaihue",
     "rango_alertas": []
   },
   {
