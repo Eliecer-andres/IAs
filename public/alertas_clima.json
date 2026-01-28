@@ -1,61 +1,17 @@
 [
   {
-    "comuna": "Ancud",
-    "rango_alertas": [
-      {
-        "fecha": "2026-01-28",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Calbuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-01-28",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Maullin",
-    "rango_alertas": [
-      {
-        "fecha": "2026-01-28",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quinchao",
-    "rango_alertas": [
-      {
-        "fecha": "2026-01-28",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-02-03",
-        "hora_inicio": 17,
-        "hora_fin": 17,
+        "fecha": "2026-02-02",
+        "hora_inicio": 22,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-02-03",
-        "hora_inicio": 19,
-        "hora_fin": 23,
+        "hora_inicio": 3,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -64,15 +20,9 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-02-03",
-        "hora_inicio": 11,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-03",
-        "hora_inicio": 13,
-        "hora_fin": 15,
+        "fecha": "2026-01-30",
+        "hora_inicio": 15,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -82,14 +32,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-02-03",
-        "hora_inicio": 21,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-03",
-        "hora_inicio": 23,
-        "hora_fin": 23,
+        "hora_inicio": 4,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -97,12 +41,6 @@
   {
     "comuna": "Villarrica",
     "rango_alertas": [
-      {
-        "fecha": "2026-01-27",
-        "hora_inicio": 17,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
       {
         "fecha": "2026-01-28",
         "hora_inicio": 9,
@@ -112,55 +50,47 @@
       {
         "fecha": "2026-01-29",
         "hora_inicio": 0,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-01-29",
-        "hora_inicio": 14,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-30",
         "hora_inicio": 0,
-        "hora_fin": 0,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-30",
-        "hora_inicio": 19,
-        "hora_fin": 20,
+        "hora_inicio": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-01-31",
-        "hora_inicio": 17,
-        "hora_fin": 22,
+        "hora_inicio": 18,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-02-01",
-        "hora_inicio": 16,
+        "hora_inicio": 17,
         "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-02-02",
-        "hora_inicio": 18,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-03",
-        "hora_inicio": 8,
-        "hora_fin": 8,
+        "fecha": "2026-02-04",
+        "hora_inicio": 16,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
     "comuna": "Alto Bio Bio",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Ancud",
     "rango_alertas": []
   },
   {
@@ -181,6 +111,10 @@
   },
   {
     "comuna": "Cabrero",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Calbuco",
     "rango_alertas": []
   },
   {
@@ -388,6 +322,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Maullin",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Melipeuco",
     "rango_alertas": []
   },
@@ -505,6 +443,10 @@
   },
   {
     "comuna": "Quillon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quinchao",
     "rango_alertas": []
   },
   {
