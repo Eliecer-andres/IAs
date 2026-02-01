@@ -1,13 +1,40 @@
 [
   {
-    "comuna": "Villarrica",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
-        "fecha": "2026-01-31",
-        "hora_inicio": 18,
-        "hora_fin": 20,
+        "fecha": "2026-02-04",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Antuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-02-04",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Valdivia",
+    "rango_alertas": [
+      {
+        "fecha": "2026-02-04",
+        "hora_inicio": 7,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
       {
         "fecha": "2026-02-01",
         "hora_inicio": 16,
@@ -16,21 +43,23 @@
       },
       {
         "fecha": "2026-02-04",
-        "hora_inicio": 1,
-        "hora_fin": 3,
+        "hora_inicio": 8,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-02-04",
-        "hora_inicio": 7,
-        "hora_fin": 12,
+        "hora_inicio": 21,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-02-05",
+        "hora_inicio": 0,
+        "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -38,10 +67,6 @@
   },
   {
     "comuna": "Angol",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Antuco",
     "rango_alertas": []
   },
   {
@@ -466,10 +491,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
