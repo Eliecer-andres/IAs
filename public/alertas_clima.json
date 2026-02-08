@@ -1,36 +1,7 @@
 [
   {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-02-12",
-        "hora_inicio": 19,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-12",
-        "hora_inicio": 22,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-13",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
-      {
-        "fecha": "2026-02-07",
-        "hora_inicio": 18,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
       {
         "fecha": "2026-02-09",
         "hora_inicio": 18,
@@ -39,14 +10,20 @@
       },
       {
         "fecha": "2026-02-12",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_inicio": 20,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-02-12",
-        "hora_inicio": 20,
-        "hora_fin": 20,
+        "fecha": "2026-02-13",
+        "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-02-15",
+        "hora_inicio": 17,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -461,6 +438,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
