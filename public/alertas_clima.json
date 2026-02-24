@@ -11,6 +11,17 @@
     ]
   },
   {
+    "comuna": "Futaleufu",
+    "rango_alertas": [
+      {
+        "fecha": "2026-02-28",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Lonquimay",
     "rango_alertas": [
       {
@@ -22,10 +33,21 @@
     ]
   },
   {
+    "comuna": "Palena",
+    "rango_alertas": [
+      {
+        "fecha": "2026-02-28",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Puerto Cisnes",
     "rango_alertas": [
       {
-        "fecha": "2026-03-02",
+        "fecha": "2026-02-28",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -33,23 +55,12 @@
     ]
   },
   {
-    "comuna": "Rio Ibañez",
+    "comuna": "Quinchao",
     "rango_alertas": [
       {
-        "fecha": "2026-03-02",
+        "fecha": "2026-02-28",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 6,
-        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -69,18 +80,6 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-02-23",
-        "hora_inicio": 18,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-24",
-        "hora_inicio": 17,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-02-25",
         "hora_inicio": 17,
         "hora_fin": 21,
@@ -88,14 +87,14 @@
       },
       {
         "fecha": "2026-02-26",
-        "hora_inicio": 17,
+        "hora_inicio": 18,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-02-28",
         "hora_inicio": 7,
-        "hora_fin": 8,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -233,10 +232,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Futaleufu",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Futrono",
     "rango_alertas": []
   },
@@ -369,10 +364,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Palena",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Panguipulli",
     "rango_alertas": []
   },
@@ -449,10 +440,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Quinchao",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Ranquil",
     "rango_alertas": []
   },
@@ -462,6 +449,10 @@
   },
   {
     "comuna": "Rio Bueno",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
@@ -494,6 +485,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
