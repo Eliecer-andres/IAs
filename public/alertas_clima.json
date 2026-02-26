@@ -22,23 +22,12 @@
     ]
   },
   {
-    "comuna": "Ohiggins",
+    "comuna": "Los Lagos",
     "rango_alertas": [
       {
-        "fecha": "2026-03-04",
+        "fecha": "2026-02-28",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 19,
-        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -48,14 +37,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-02-27",
-        "hora_inicio": 20,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 16,
-        "hora_fin": 18,
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -64,12 +47,6 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-02-25",
-        "hora_inicio": 17,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-02-26",
         "hora_inicio": 18,
         "hora_fin": 20,
@@ -77,38 +54,20 @@
       },
       {
         "fecha": "2026-02-27",
-        "hora_inicio": 20,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-27",
-        "hora_inicio": 23,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-02-28",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-01",
         "hora_inicio": 19,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-02",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "fecha": "2026-03-01",
+        "hora_inicio": 19,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-04",
-        "hora_inicio": 18,
-        "hora_fin": 19,
+        "fecha": "2026-03-05",
+        "hora_inicio": 17,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -314,10 +273,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Lagos",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Muermos",
     "rango_alertas": []
   },
@@ -363,6 +318,10 @@
   },
   {
     "comuna": "Nueva Imperial",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
@@ -511,6 +470,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
