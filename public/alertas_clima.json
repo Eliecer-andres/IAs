@@ -1,9 +1,42 @@
 [
   {
-    "comuna": "Curarrehue",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
-        "fecha": "2026-02-28",
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Cabrero",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "El Carmen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Florida",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -12,6 +45,72 @@
   },
   {
     "comuna": "Lonquimay",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Angeles",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Pemuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quilaco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quilleco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quillon",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Rio Ibañez",
     "rango_alertas": [
       {
         "fecha": "2026-03-02",
@@ -33,11 +132,22 @@
     ]
   },
   {
+    "comuna": "Santa Barbara",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-02-27",
-        "hora_inicio": 20,
+        "fecha": "2026-03-01",
+        "hora_inicio": 17,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
@@ -48,8 +158,19 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-01",
-        "hora_inicio": 23,
+        "hora_inicio": 22,
         "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Tucapel",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -58,15 +179,9 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-02-27",
-        "hora_inicio": 18,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-01",
-        "hora_inicio": 17,
-        "hora_fin": 17,
+        "hora_inicio": 12,
+        "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -75,40 +190,35 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-02-27",
-        "hora_inicio": 20,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-01",
-        "hora_inicio": 20,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-04",
-        "hora_inicio": 18,
-        "hora_fin": 21,
+        "hora_inicio": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-05",
-        "hora_inicio": 17,
+        "hora_inicio": 16,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-06",
         "hora_inicio": 16,
-        "hora_fin": 21,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
+    "comuna": "Yumbel",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
   },
   {
     "comuna": "Ancud",
@@ -128,10 +238,6 @@
   },
   {
     "comuna": "Bulnes",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Cabrero",
     "rango_alertas": []
   },
   {
@@ -211,19 +317,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Curarrehue",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
-    "comuna": "El Carmen",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Ercilla",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Florida",
     "rango_alertas": []
   },
   {
@@ -303,10 +405,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Angeles",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Lagos",
     "rango_alertas": []
   },
@@ -383,10 +481,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Pemuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Perquenco",
     "rango_alertas": []
   },
@@ -447,18 +541,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Quilaco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Quilleco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Quillon",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Quinchao",
     "rango_alertas": []
   },
@@ -472,10 +554,6 @@
   },
   {
     "comuna": "Rio Bueno",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
@@ -499,10 +577,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Santa Barbara",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Juana",
     "rango_alertas": []
   },
@@ -523,19 +597,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Victoria",
     "rango_alertas": []
   },
   {
     "comuna": "Vilcun",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Yumbel",
     "rango_alertas": []
   },
   {
