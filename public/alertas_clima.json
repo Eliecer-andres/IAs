@@ -11,17 +11,6 @@
     ]
   },
   {
-    "comuna": "Cabrero",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "El Carmen",
     "rango_alertas": [
       {
@@ -33,40 +22,7 @@
     ]
   },
   {
-    "comuna": "Florida",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Lonquimay",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Los Angeles",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Pemuco",
     "rango_alertas": [
       {
         "fecha": "2026-03-02",
@@ -99,34 +55,12 @@
     ]
   },
   {
-    "comuna": "Quillon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Rio Ibañez",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
         "fecha": "2026-03-01",
-        "hora_inicio": 22,
-        "hora_fin": 22,
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -148,18 +82,7 @@
       {
         "fecha": "2026-03-01",
         "hora_inicio": 17,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 22,
-        "hora_fin": 23,
+        "hora_fin": 17,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -180,7 +103,7 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-01",
-        "hora_inicio": 12,
+        "hora_inicio": 13,
         "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       }
@@ -197,25 +120,26 @@
       },
       {
         "fecha": "2026-03-05",
-        "hora_inicio": 16,
+        "hora_inicio": 17,
         "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-06",
         "hora_inicio": 16,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-07",
+        "hora_inicio": 17,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Yumbel",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-03-08",
+        "hora_inicio": 18,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -238,6 +162,10 @@
   },
   {
     "comuna": "Bulnes",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cabrero",
     "rango_alertas": []
   },
   {
@@ -329,6 +257,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Florida",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Freire",
     "rango_alertas": []
   },
@@ -402,6 +334,10 @@
   },
   {
     "comuna": "Los Alamos",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Los Angeles",
     "rango_alertas": []
   },
   {
@@ -481,6 +417,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Pemuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Perquenco",
     "rango_alertas": []
   },
@@ -541,6 +481,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Quillon",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Quinchao",
     "rango_alertas": []
   },
@@ -554,6 +498,10 @@
   },
   {
     "comuna": "Rio Bueno",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
@@ -593,6 +541,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Tome",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Traiguen",
     "rango_alertas": []
   },
@@ -602,6 +554,10 @@
   },
   {
     "comuna": "Vilcun",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Yumbel",
     "rango_alertas": []
   },
   {
