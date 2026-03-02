@@ -1,17 +1,6 @@
 [
   {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "El Carmen",
+    "comuna": "Coyhaique",
     "rango_alertas": [
       {
         "fecha": "2026-03-02",
@@ -33,6 +22,28 @@
     ]
   },
   {
+    "comuna": "Los Angeles",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Mulchen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-02",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Quilaco",
     "rango_alertas": [
       {
@@ -44,23 +55,12 @@
     ]
   },
   {
-    "comuna": "Quilleco",
+    "comuna": "Rio Ibañez",
     "rango_alertas": [
       {
         "fecha": "2026-03-02",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "San Rosendo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 21,
-        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -77,18 +77,7 @@
     ]
   },
   {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 17,
-        "hora_fin": 17,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tucapel",
+    "comuna": "Tome",
     "rango_alertas": [
       {
         "fecha": "2026-03-02",
@@ -99,29 +88,12 @@
     ]
   },
   {
-    "comuna": "Valdivia",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-01",
-        "hora_inicio": 13,
-        "hora_fin": 14,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-03-01",
-        "hora_inicio": 17,
-        "hora_fin": 18,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-05",
         "hora_inicio": 17,
-        "hora_fin": 21,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -132,17 +104,27 @@
       },
       {
         "fecha": "2026-03-07",
-        "hora_inicio": 17,
-        "hora_fin": 20,
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-08",
         "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-09",
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
+  },
+  {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -225,10 +207,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Coyhaique",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Cunco",
     "rango_alertas": []
   },
@@ -250,6 +228,10 @@
   },
   {
     "comuna": "Dalcahue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "El Carmen",
     "rango_alertas": []
   },
   {
@@ -337,10 +319,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Angeles",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Lagos",
     "rango_alertas": []
   },
@@ -374,10 +352,6 @@
   },
   {
     "comuna": "Melipeuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Mulchen",
     "rango_alertas": []
   },
   {
@@ -481,6 +455,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Quilleco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Quillon",
     "rango_alertas": []
   },
@@ -498,10 +476,6 @@
   },
   {
     "comuna": "Rio Bueno",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
@@ -525,7 +499,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -541,11 +523,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Tome",
+    "comuna": "Traiguen",
     "rango_alertas": []
   },
   {
-    "comuna": "Traiguen",
+    "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
