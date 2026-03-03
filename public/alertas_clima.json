@@ -1,99 +1,11 @@
 [
   {
-    "comuna": "Coyhaique",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lonquimay",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Los Angeles",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Mulchen",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quilaco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Rio Ibañez",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Santa Barbara",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-02",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
         "fecha": "2026-03-05",
         "hora_inicio": 17,
-        "hora_fin": 20,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -103,21 +15,9 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-07",
-        "hora_inicio": 18,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-08",
-        "hora_inicio": 18,
-        "hora_fin": 19,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-09",
-        "hora_inicio": 18,
-        "hora_fin": 19,
+        "fecha": "2026-03-10",
+        "hora_inicio": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -204,6 +104,10 @@
   },
   {
     "comuna": "Corral",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Coyhaique",
     "rango_alertas": []
   },
   {
@@ -315,7 +219,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lonquimay",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Los Alamos",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Los Angeles",
     "rango_alertas": []
   },
   {
@@ -352,6 +264,10 @@
   },
   {
     "comuna": "Melipeuco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Mulchen",
     "rango_alertas": []
   },
   {
@@ -455,6 +371,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Quilaco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Quilleco",
     "rango_alertas": []
   },
@@ -476,6 +396,10 @@
   },
   {
     "comuna": "Rio Bueno",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
@@ -503,6 +427,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Santa Barbara",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Juana",
     "rango_alertas": []
   },
@@ -520,6 +448,10 @@
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
