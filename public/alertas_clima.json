@@ -88,6 +88,17 @@
     ]
   },
   {
+    "comuna": "Curanilahue",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-15",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Curarrehue",
     "rango_alertas": [
       {
@@ -99,7 +110,7 @@
     ]
   },
   {
-    "comuna": "El Carmen",
+    "comuna": "Ercilla",
     "rango_alertas": [
       {
         "fecha": "2026-03-15",
@@ -165,17 +176,6 @@
     ]
   },
   {
-    "comuna": "Laja",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Lautaro",
     "rango_alertas": [
       {
@@ -231,17 +231,6 @@
     ]
   },
   {
-    "comuna": "Lota",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Lumaco",
     "rango_alertas": [
       {
@@ -286,6 +275,17 @@
     ]
   },
   {
+    "comuna": "Palena",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-15",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Perquenco",
     "rango_alertas": [
       {
@@ -319,29 +319,18 @@
     ]
   },
   {
+    "comuna": "Puerto Cisnes",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-18",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Puren",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quilaco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quilleco",
     "rango_alertas": [
       {
         "fecha": "2026-03-15",
@@ -367,42 +356,20 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 4,
+        "hora_inicio": 1,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-19",
-        "hora_inicio": 4,
-        "hora_fin": 4,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-19",
+        "fecha": "2026-03-15",
         "hora_inicio": 7,
-        "hora_fin": 12,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Santa Barbara",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Santa Juana",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-03-16",
+        "hora_inicio": 20,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -419,19 +386,19 @@
       {
         "fecha": "2026-03-15",
         "hora_inicio": 0,
-        "hora_fin": 1,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-18",
+        "hora_inicio": 10,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-18",
         "hora_inicio": 13,
         "hora_fin": 14,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-18",
-        "hora_inicio": 19,
-        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -463,14 +430,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-15",
-        "hora_inicio": 4,
-        "hora_fin": 5,
+        "hora_inicio": 3,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-19",
-        "hora_inicio": 10,
-        "hora_fin": 11,
+        "fecha": "2026-03-15",
+        "hora_inicio": 5,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -491,12 +458,6 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-14",
-        "hora_inicio": 11,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-14",
         "hora_inicio": 15,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
@@ -504,7 +465,7 @@
       {
         "fecha": "2026-03-18",
         "hora_inicio": 5,
-        "hora_fin": 6,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -536,7 +497,7 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-14",
-        "hora_inicio": 19,
+        "hora_inicio": 20,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
@@ -548,38 +509,14 @@
       },
       {
         "fecha": "2026-03-16",
-        "hora_inicio": 18,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-17",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "hora_inicio": 13,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 2,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-18",
-        "hora_inicio": 6,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-19",
-        "hora_inicio": 0,
-        "hora_fin": 5,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-19",
-        "hora_inicio": 7,
-        "hora_fin": 9,
+        "hora_inicio": 10,
+        "hora_fin": 15,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -653,15 +590,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Curanilahue",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
-    "comuna": "Ercilla",
+    "comuna": "El Carmen",
     "rango_alertas": []
   },
   {
@@ -697,6 +630,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Laja",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lanco",
     "rango_alertas": []
   },
@@ -718,6 +655,10 @@
   },
   {
     "comuna": "Los Muermos",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lota",
     "rango_alertas": []
   },
   {
@@ -757,10 +698,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Palena",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Panguipulli",
     "rango_alertas": []
   },
@@ -770,10 +707,6 @@
   },
   {
     "comuna": "Pinto",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Puerto Cisnes",
     "rango_alertas": []
   },
   {
@@ -810,6 +743,14 @@
   },
   {
     "comuna": "Quemchi",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quilaco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quilleco",
     "rango_alertas": []
   },
   {
@@ -850,6 +791,14 @@
   },
   {
     "comuna": "San Pablo",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Santa Barbara",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Santa Juana",
     "rango_alertas": []
   },
   {
