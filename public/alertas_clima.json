@@ -1,281 +1,11 @@
 [
   {
-    "comuna": "Carahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Cholchol",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Cunco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curanilahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curarrehue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Freire",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Futaleufu",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Galvarino",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Gorbea",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Loncoche",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lonquimay",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Los Lagos",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Mafil",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Mariquina",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Nueva Imperial",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Padre Las Casas",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Palena",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Panguipulli",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Pitrufquen",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Pucon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puerto Cisnes",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-18",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Saavedra",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-03-15",
-        "hora_inicio": 1,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-19",
-        "hora_inicio": 4,
-        "hora_fin": 6,
+        "hora_inicio": 2,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -284,43 +14,15 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 4,
+        "fecha": "2026-03-16",
+        "hora_inicio": 18,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 22,
+        "hora_inicio": 21,
         "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-19",
-        "hora_inicio": 0,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Teodoro Schmidt",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tirua",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -329,15 +31,9 @@
     "comuna": "Tome",
     "rango_alertas": [
       {
-        "fecha": "2026-03-15",
-        "hora_inicio": 6,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-19",
-        "hora_inicio": 7,
-        "hora_fin": 9,
+        "hora_inicio": 5,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -347,8 +43,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 10,
-        "hora_fin": 10,
+        "hora_inicio": 14,
+        "hora_fin": 15,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-18",
+        "hora_inicio": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -357,18 +59,6 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-03-15",
-        "hora_inicio": 0,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-16",
-        "hora_inicio": 14,
-        "hora_fin": 14,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-16",
         "hora_inicio": 16,
         "hora_fin": 21,
@@ -376,14 +66,26 @@
       },
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 13,
+        "hora_inicio": 16,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-19",
         "hora_inicio": 0,
-        "hora_fin": 6,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-22",
+        "hora_inicio": 18,
+        "hora_fin": 18,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 20,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -421,6 +123,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Carahue",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Castro",
     "rango_alertas": []
   },
@@ -434,6 +140,10 @@
   },
   {
     "comuna": "Chile Chico",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cholchol",
     "rango_alertas": []
   },
   {
@@ -469,11 +179,23 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Cunco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curacautin",
     "rango_alertas": []
   },
   {
     "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curanilahue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curarrehue",
     "rango_alertas": []
   },
   {
@@ -493,6 +215,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Freire",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Fresia",
     "rango_alertas": []
   },
@@ -501,7 +227,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Futaleufu",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Futrono",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Galvarino",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Gorbea",
     "rango_alertas": []
   },
   {
@@ -529,6 +267,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lanco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lautaro",
     "rango_alertas": []
   },
@@ -541,11 +283,23 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Loncoche",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lonquimay",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Los Alamos",
     "rango_alertas": []
   },
   {
     "comuna": "Los Angeles",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Los Lagos",
     "rango_alertas": []
   },
   {
@@ -565,7 +319,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Mafil",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Mariquina",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Maullin",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Melipeuco",
     "rango_alertas": []
   },
   {
@@ -581,6 +347,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Nueva Imperial",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Ohiggins",
     "rango_alertas": []
   },
@@ -589,7 +359,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Padre Las Casas",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Paillaco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Palena",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Panguipulli",
     "rango_alertas": []
   },
   {
@@ -602,6 +384,18 @@
   },
   {
     "comuna": "Pinto",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Pitrufquen",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Pucon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Puerto Cisnes",
     "rango_alertas": []
   },
   {
@@ -681,6 +475,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Saavedra",
+    "rango_alertas": []
+  },
+  {
     "comuna": "San Ignacio",
     "rango_alertas": []
   },
@@ -698,6 +496,14 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Teodoro Schmidt",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tirua",
     "rango_alertas": []
   },
   {
