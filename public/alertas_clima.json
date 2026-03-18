@@ -1,9 +1,53 @@
 [
   {
-    "comuna": "Lebu",
+    "comuna": "Collipulli",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Ercilla",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Lautaro",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Muermos",
     "rango_alertas": [
       {
         "fecha": "2026-03-22",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Perquenco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -15,26 +59,20 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-19",
-        "hora_inicio": 6,
+        "hora_inicio": 7,
         "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-19",
-        "hora_inicio": 10,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-03-22",
         "hora_inicio": 6,
-        "hora_fin": 6,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-22",
-        "hora_inicio": 8,
-        "hora_fin": 11,
+        "hora_inicio": 18,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -44,26 +82,20 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 19,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-18",
         "hora_inicio": 22,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-19",
-        "hora_inicio": 1,
-        "hora_fin": 1,
+        "hora_inicio": 0,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-19",
-        "hora_inicio": 4,
-        "hora_fin": 4,
+        "fecha": "2026-03-22",
+        "hora_inicio": 10,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -76,6 +108,18 @@
         "hora_inicio": 8,
         "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-22",
+        "hora_inicio": 10,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-22",
+        "hora_inicio": 12,
+        "hora_fin": 12,
+        "impacto_llamadas_adicionales": 0
       }
     ]
   },
@@ -84,14 +128,42 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 13,
-        "hora_fin": 14,
+        "hora_inicio": 11,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-24",
-        "hora_inicio": 7,
-        "hora_fin": 8,
+        "fecha": "2026-03-18",
+        "hora_inicio": 14,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-22",
+        "hora_inicio": 1,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Victoria",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Vilcun",
+    "rango_alertas": [
+      {
+        "fecha": "2026-03-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -101,7 +173,7 @@
     "rango_alertas": [
       {
         "fecha": "2026-03-18",
-        "hora_inicio": 15,
+        "hora_inicio": 16,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
@@ -113,20 +185,14 @@
       },
       {
         "fecha": "2026-03-22",
-        "hora_inicio": 6,
-        "hora_fin": 6,
+        "hora_inicio": 9,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-24",
-        "hora_inicio": 2,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-24",
-        "hora_inicio": 5,
-        "hora_fin": 7,
+        "fecha": "2026-03-22",
+        "hora_inicio": 19,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -200,10 +266,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Collipulli",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Contulmo",
     "rango_alertas": []
   },
@@ -245,10 +307,6 @@
   },
   {
     "comuna": "El Carmen",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Ercilla",
     "rango_alertas": []
   },
   {
@@ -312,7 +370,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Lautaro",
+    "comuna": "Lebu",
     "rango_alertas": []
   },
   {
@@ -337,10 +395,6 @@
   },
   {
     "comuna": "Los Lagos",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Los Muermos",
     "rango_alertas": []
   },
   {
@@ -413,10 +467,6 @@
   },
   {
     "comuna": "Pemuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Perquenco",
     "rango_alertas": []
   },
   {
@@ -553,14 +603,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Victoria",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Vilcun",
     "rango_alertas": []
   },
   {
