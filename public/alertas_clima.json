@@ -1,50 +1,6 @@
 [
   {
-    "comuna": "Castro",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Chonchi",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Coyhaique",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curaco De Velez",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Dalcahue",
+    "comuna": "Cochamo",
     "rango_alertas": [
       {
         "fecha": "2026-03-29",
@@ -66,17 +22,6 @@
     ]
   },
   {
-    "comuna": "Lago Verde",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Ohiggins",
     "rango_alertas": [
       {
@@ -84,11 +29,17 @@
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-03-30",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Puerto Cisnes",
+    "comuna": "Puyehue",
     "rango_alertas": [
       {
         "fecha": "2026-03-29",
@@ -99,29 +50,7 @@
     ]
   },
   {
-    "comuna": "Queilen",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quemchi",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Rio Ibañez",
+    "comuna": "Rio Negro",
     "rango_alertas": [
       {
         "fecha": "2026-03-29",
@@ -146,21 +75,9 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-03-30",
-        "hora_inicio": 22,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-31",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-31",
-        "hora_inicio": 3,
-        "hora_fin": 3,
+        "fecha": "2026-03-29",
+        "hora_inicio": 1,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -171,13 +88,13 @@
       {
         "fecha": "2026-03-30",
         "hora_inicio": 18,
-        "hora_fin": 21,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-03-31",
         "hora_inicio": 4,
-        "hora_fin": 6,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -219,6 +136,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Castro",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Cañete",
     "rango_alertas": []
   },
@@ -235,7 +156,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Cochamo",
+    "comuna": "Chonchi",
     "rango_alertas": []
   },
   {
@@ -259,6 +180,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Coyhaique",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Cunco",
     "rango_alertas": []
   },
@@ -267,11 +192,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
     "comuna": "Curarrehue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
@@ -324,6 +257,10 @@
   },
   {
     "comuna": "Lago Ranco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lago Verde",
     "rango_alertas": []
   },
   {
@@ -455,6 +392,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Puerto Cisnes",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Puerto Montt",
     "rango_alertas": []
   },
@@ -479,11 +420,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Puyehue",
+    "comuna": "Queilen",
     "rango_alertas": []
   },
   {
     "comuna": "Quellon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quemchi",
     "rango_alertas": []
   },
   {
@@ -515,7 +460,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Rio Negro",
+    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
