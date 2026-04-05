@@ -1,42 +1,9 @@
 [
   {
-    "comuna": "Castro",
+    "comuna": "Cochrane",
     "rango_alertas": [
       {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Chaiten",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-30",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Chonchi",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Cochamo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
+        "fecha": "2026-04-11",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -47,57 +14,7 @@
     "comuna": "Coyhaique",
     "rango_alertas": [
       {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curaco De Velez",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Dalcahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Futaleufu",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-03-30",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lago Verde",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
+        "fecha": "2026-04-11",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -108,13 +25,13 @@
     "comuna": "Ohiggins",
     "rango_alertas": [
       {
-        "fecha": "2026-03-28",
+        "fecha": "2026-04-11",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-30",
+        "fecha": "2026-04-12",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -122,67 +39,12 @@
     ]
   },
   {
-    "comuna": "Palena",
+    "comuna": "Puerto Cisnes",
     "rango_alertas": [
       {
-        "fecha": "2026-03-30",
+        "fecha": "2026-04-11",
         "hora_inicio": 0,
         "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puqueldon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Queilen",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quellon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quinchao",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-30",
-        "hora_inicio": 16,
-        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -191,26 +53,15 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-03-30",
-        "hora_inicio": 7,
-        "hora_fin": 12,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Villarrica",
-    "rango_alertas": [
-      {
-        "fecha": "2026-03-29",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "fecha": "2026-04-11",
+        "hora_inicio": 9,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-03-30",
-        "hora_inicio": 16,
-        "hora_fin": 21,
+        "fecha": "2026-04-11",
+        "hora_inicio": 11,
+        "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -252,7 +103,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Castro",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Cañete",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Chaiten",
     "rango_alertas": []
   },
   {
@@ -264,7 +123,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Cochrane",
+    "comuna": "Chonchi",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cochamo",
     "rango_alertas": []
   },
   {
@@ -292,11 +155,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
     "comuna": "Curarrehue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
@@ -321,6 +192,10 @@
   },
   {
     "comuna": "Frutillar",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -349,6 +224,10 @@
   },
   {
     "comuna": "Lago Ranco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lago Verde",
     "rango_alertas": []
   },
   {
@@ -452,6 +331,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Palena",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Panguipulli",
     "rango_alertas": []
   },
@@ -476,10 +359,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Puerto Cisnes",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Puerto Montt",
     "rango_alertas": []
   },
@@ -492,6 +371,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Puqueldon",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Puren",
     "rango_alertas": []
   },
@@ -501,6 +384,14 @@
   },
   {
     "comuna": "Puyehue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Queilen",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quellon",
     "rango_alertas": []
   },
   {
@@ -517,6 +408,10 @@
   },
   {
     "comuna": "Quillon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quinchao",
     "rango_alertas": []
   },
   {
@@ -568,6 +463,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Temuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -597,6 +496,10 @@
   },
   {
     "comuna": "Vilcun",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Villarrica",
     "rango_alertas": []
   },
   {
