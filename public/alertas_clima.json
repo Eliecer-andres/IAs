@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Cochamo",
+    "comuna": "Castro",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -11,18 +11,7 @@
     ]
   },
   {
-    "comuna": "Cochrane",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-11",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "La Union",
+    "comuna": "Chonchi",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -33,7 +22,18 @@
     ]
   },
   {
-    "comuna": "Los Lagos",
+    "comuna": "Curaco De Velez",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Dalcahue",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "comuna": "Osorno",
+    "comuna": "Puerto Cisnes",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -66,7 +66,7 @@
     ]
   },
   {
-    "comuna": "Rio Bueno",
+    "comuna": "Queilen",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -77,10 +77,21 @@
     ]
   },
   {
-    "comuna": "Rio Ibañez",
+    "comuna": "Quellon",
     "rango_alertas": [
       {
-        "fecha": "2026-04-11",
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quinchao",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -92,8 +103,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 2,
+        "hora_inicio": 6,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -102,9 +113,33 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
+        "fecha": "2026-04-12",
+        "hora_inicio": 9,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2026-04-13",
         "hora_inicio": 21,
         "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 2,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 5,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-15",
+        "hora_inicio": 7,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -146,10 +181,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Castro",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Cañete",
     "rango_alertas": []
   },
@@ -166,7 +197,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Chonchi",
+    "comuna": "Cochamo",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cochrane",
     "rango_alertas": []
   },
   {
@@ -198,19 +233,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Curaco De Velez",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
     "comuna": "Curarrehue",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
@@ -262,6 +289,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "La Union",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lago Ranco",
     "rango_alertas": []
   },
@@ -303,6 +334,10 @@
   },
   {
     "comuna": "Los Angeles",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Los Lagos",
     "rango_alertas": []
   },
   {
@@ -354,6 +389,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Osorno",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Padre Las Casas",
     "rango_alertas": []
   },
@@ -390,10 +429,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Puerto Cisnes",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Puerto Montt",
     "rango_alertas": []
   },
@@ -422,14 +457,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Queilen",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Quellon",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Quemchi",
     "rango_alertas": []
   },
@@ -446,15 +473,19 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Quinchao",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Ranquil",
     "rango_alertas": []
   },
   {
     "comuna": "Renaico",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Rio Bueno",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Rio Ibañez",
     "rango_alertas": []
   },
   {
