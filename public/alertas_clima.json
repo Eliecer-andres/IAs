@@ -1,5 +1,49 @@
 [
   {
+    "comuna": "Cochamo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Lagos",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Mafil",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Mariquina",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Ohiggins",
     "rango_alertas": [
       {
@@ -11,24 +55,80 @@
     ]
   },
   {
+    "comuna": "Puyehue",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-12",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 15,
+        "hora_fin": 15,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 12,
+        "hora_fin": 13,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Valdivia",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-11",
+        "hora_inicio": 23,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 2,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-04-15",
-        "hora_inicio": 21,
-        "hora_fin": 23,
+        "fecha": "2026-04-14",
+        "hora_inicio": 3,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
         "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 2,
         "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_inicio": 6,
+        "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -91,10 +191,6 @@
   },
   {
     "comuna": "Chonchi",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Cochamo",
     "rango_alertas": []
   },
   {
@@ -242,10 +338,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Lagos",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Muermos",
     "rango_alertas": []
   },
@@ -259,14 +351,6 @@
   },
   {
     "comuna": "Lumaco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Mafil",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Mariquina",
     "rango_alertas": []
   },
   {
@@ -362,10 +446,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Puyehue",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Queilen",
     "rango_alertas": []
   },
@@ -430,19 +510,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -467,10 +539,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
