@@ -1,6 +1,17 @@
 [
   {
-    "comuna": "Carahue",
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-18",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Futrono",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -11,40 +22,7 @@
     ]
   },
   {
-    "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Loncoche",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Ohiggins",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-11",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Saavedra",
+    "comuna": "Paillaco",
     "rango_alertas": [
       {
         "fecha": "2026-04-12",
@@ -59,13 +37,13 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-16",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_inicio": 12,
+        "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-04-16",
-        "hora_inicio": 20,
+        "fecha": "2026-04-17",
+        "hora_inicio": 18,
         "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
@@ -75,20 +53,27 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-04-12",
-        "hora_inicio": 1,
-        "hora_fin": 1,
+        "fecha": "2026-04-14",
+        "hora_inicio": 6,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Teodoro Schmidt",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-04-14",
+        "hora_inicio": 11,
+        "hora_fin": 13,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 4,
+        "hora_fin": 4,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 6,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -97,15 +82,9 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-04-11",
-        "hora_inicio": 22,
-        "hora_fin": 22,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-04-14",
-        "hora_inicio": 3,
-        "hora_fin": 5,
+        "hora_inicio": 2,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -115,21 +94,35 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-14",
-        "hora_inicio": 6,
+        "hora_inicio": 5,
         "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-04-16",
+        "fecha": "2026-04-14",
+        "hora_inicio": 11,
+        "hora_fin": 11,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 13,
+        "hora_fin": 13,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-15",
         "hora_inicio": 18,
-        "hora_fin": 20,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 0,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -157,6 +150,10 @@
   },
   {
     "comuna": "Calbuco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Carahue",
     "rango_alertas": []
   },
   {
@@ -264,10 +261,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Futrono",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Galvarino",
     "rango_alertas": []
   },
@@ -300,6 +293,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lanco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lautaro",
     "rango_alertas": []
   },
@@ -309,6 +306,10 @@
   },
   {
     "comuna": "Llanquihue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Loncoche",
     "rango_alertas": []
   },
   {
@@ -376,15 +377,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Ohiggins",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Osorno",
     "rango_alertas": []
   },
   {
     "comuna": "Padre Las Casas",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Paillaco",
     "rango_alertas": []
   },
   {
@@ -496,6 +497,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Saavedra",
+    "rango_alertas": []
+  },
+  {
     "comuna": "San Ignacio",
     "rango_alertas": []
   },
@@ -513,6 +518,10 @@
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
   {
