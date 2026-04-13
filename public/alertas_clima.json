@@ -1,79 +1,11 @@
 [
   {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-18",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Futrono",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Paillaco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-12",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "San Rosendo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-16",
-        "hora_inicio": 12,
-        "hora_fin": 14,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-17",
-        "hora_inicio": 18,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Temuco",
     "rango_alertas": [
       {
         "fecha": "2026-04-14",
         "hora_inicio": 6,
-        "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-14",
-        "hora_inicio": 11,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-16",
-        "hora_inicio": 4,
-        "hora_fin": 4,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-16",
-        "hora_inicio": 6,
-        "hora_fin": 11,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -83,8 +15,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-14",
-        "hora_inicio": 2,
-        "hora_fin": 8,
+        "hora_inicio": 3,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -99,30 +31,22 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-04-14",
-        "hora_inicio": 11,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-14",
-        "hora_inicio": 13,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-15",
-        "hora_inicio": 18,
-        "hora_fin": 23,
+        "fecha": "2026-04-16",
+        "hora_inicio": 3,
+        "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
-        "hora_inicio": 0,
-        "hora_fin": 11,
+        "hora_inicio": 6,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
+  },
+  {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -261,6 +185,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Futrono",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Galvarino",
     "rango_alertas": []
   },
@@ -389,6 +317,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Paillaco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Palena",
     "rango_alertas": []
   },
@@ -510,6 +442,10 @@
   },
   {
     "comuna": "San Pablo",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "San Rosendo",
     "rango_alertas": []
   },
   {
