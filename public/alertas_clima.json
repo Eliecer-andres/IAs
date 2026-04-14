@@ -1,11 +1,39 @@
 [
   {
+    "comuna": "Futaleufu",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-18",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Puerto Cisnes",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-18",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Temuco",
     "rango_alertas": [
       {
         "fecha": "2026-04-14",
-        "hora_inicio": 6,
+        "hora_inicio": 5,
         "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 8,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -15,8 +43,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-14",
-        "hora_inicio": 3,
-        "hora_fin": 5,
+        "hora_inicio": 2,
+        "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -27,19 +55,31 @@
       {
         "fecha": "2026-04-14",
         "hora_inicio": 5,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-14",
+        "hora_inicio": 8,
         "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
-        "hora_inicio": 3,
+        "hora_inicio": 2,
         "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
         "hora_inicio": 6,
-        "hora_fin": 8,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 20,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -178,10 +218,6 @@
   },
   {
     "comuna": "Frutillar",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -346,10 +382,6 @@
   },
   {
     "comuna": "Pucon",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Puerto Cisnes",
     "rango_alertas": []
   },
   {
