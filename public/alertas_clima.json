@@ -1,17 +1,6 @@
 [
   {
-    "comuna": "Futaleufu",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-18",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puerto Cisnes",
+    "comuna": "Antuco",
     "rango_alertas": [
       {
         "fecha": "2026-04-18",
@@ -25,15 +14,9 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-04-14",
-        "hora_inicio": 5,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-14",
-        "hora_inicio": 8,
-        "hora_fin": 8,
+        "fecha": "2026-04-17",
+        "hora_inicio": 1,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -42,9 +25,9 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-04-14",
-        "hora_inicio": 2,
-        "hora_fin": 4,
+        "fecha": "2026-04-16",
+        "hora_inicio": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -53,18 +36,6 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-04-14",
-        "hora_inicio": 5,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-14",
-        "hora_inicio": 8,
-        "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-04-16",
         "hora_inicio": 2,
         "hora_fin": 4,
@@ -72,14 +43,26 @@
       },
       {
         "fecha": "2026-04-16",
-        "hora_inicio": 6,
-        "hora_fin": 10,
+        "hora_inicio": 7,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-16",
         "hora_inicio": 20,
         "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-16",
+        "hora_inicio": 22,
+        "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-17",
+        "hora_inicio": 3,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -94,10 +77,6 @@
   },
   {
     "comuna": "Angol",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Antuco",
     "rango_alertas": []
   },
   {
@@ -218,6 +197,10 @@
   },
   {
     "comuna": "Frutillar",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -382,6 +365,10 @@
   },
   {
     "comuna": "Pucon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Puerto Cisnes",
     "rango_alertas": []
   },
   {
