@@ -1,121 +1,28 @@
 [
   {
-    "comuna": "Castro",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Chonchi",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curaco De Velez",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Dalcahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puerto Cisnes",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puqueldon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Queilen",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quellon",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quemchi",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Quinchao",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-22",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Temuco",
+    "comuna": "San Rosendo",
     "rango_alertas": [
       {
         "fecha": "2026-04-24",
-        "hora_inicio": 6,
-        "hora_fin": 7,
+        "hora_inicio": 9,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Tome",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-24",
+        "hora_inicio": 9,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-24",
+        "hora_inicio": 11,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -125,8 +32,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-24",
-        "hora_inicio": 3,
-        "hora_fin": 5,
+        "hora_inicio": 6,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -136,26 +43,26 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-18",
-        "hora_inicio": 7,
-        "hora_fin": 7,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-20",
-        "hora_inicio": 21,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-22",
         "hora_inicio": 6,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-18",
+        "hora_inicio": 8,
         "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-24",
-        "hora_inicio": 3,
+        "hora_inicio": 6,
         "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-24",
+        "hora_inicio": 8,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -197,6 +104,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Castro",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Cañete",
     "rango_alertas": []
   },
@@ -210,6 +121,10 @@
   },
   {
     "comuna": "Cholchol",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Chonchi",
     "rango_alertas": []
   },
   {
@@ -249,11 +164,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
     "comuna": "Curarrehue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Dalcahue",
     "rango_alertas": []
   },
   {
@@ -449,6 +372,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Puerto Cisnes",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Puerto Montt",
     "rango_alertas": []
   },
@@ -458,6 +385,10 @@
   },
   {
     "comuna": "Puerto Varas",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Puqueldon",
     "rango_alertas": []
   },
   {
@@ -473,6 +404,18 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Queilen",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quellon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quemchi",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Quilaco",
     "rango_alertas": []
   },
@@ -482,6 +425,10 @@
   },
   {
     "comuna": "Quillon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Quinchao",
     "rango_alertas": []
   },
   {
@@ -521,15 +468,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -542,10 +489,6 @@
   },
   {
     "comuna": "Tolten",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Tome",
     "rango_alertas": []
   },
   {
