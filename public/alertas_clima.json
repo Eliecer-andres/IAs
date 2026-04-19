@@ -1,39 +1,11 @@
 [
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-24",
-        "hora_inicio": 9,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
-      {
-        "fecha": "2026-04-24",
-        "hora_inicio": 9,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-24",
-        "hora_inicio": 11,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-04-24",
-        "hora_inicio": 6,
-        "hora_fin": 8,
+        "fecha": "2026-04-22",
+        "hora_inicio": 5,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -42,27 +14,9 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-04-18",
+        "fecha": "2026-04-22",
         "hora_inicio": 6,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-18",
-        "hora_inicio": 8,
-        "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-24",
-        "hora_inicio": 6,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-24",
-        "hora_inicio": 8,
-        "hora_fin": 10,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -468,6 +422,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
@@ -489,6 +447,10 @@
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
