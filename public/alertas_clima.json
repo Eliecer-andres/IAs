@@ -1,11 +1,11 @@
 [
   {
-    "comuna": "Valdivia",
+    "comuna": "Futaleufu",
     "rango_alertas": [
       {
-        "fecha": "2026-04-22",
-        "hora_inicio": 5,
-        "hora_fin": 5,
+        "fecha": "2026-04-25",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -14,9 +14,9 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-04-22",
-        "hora_inicio": 6,
-        "hora_fin": 9,
+        "fecha": "2026-04-27",
+        "hora_inicio": 21,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -155,10 +155,6 @@
   },
   {
     "comuna": "Frutillar",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Futaleufu",
     "rango_alertas": []
   },
   {
@@ -459,6 +455,10 @@
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
