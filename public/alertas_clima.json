@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Futaleufu",
+    "comuna": "Ohiggins",
     "rango_alertas": [
       {
         "fecha": "2026-04-25",
@@ -11,12 +11,69 @@
     ]
   },
   {
-    "comuna": "Villarrica",
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 6,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": [
       {
         "fecha": "2026-04-27",
-        "hora_inicio": 21,
-        "hora_fin": 23,
+        "hora_inicio": 15,
+        "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 5,
+        "hora_fin": 7,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Valdivia",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-27",
+        "hora_inicio": 9,
+        "hora_fin": 14,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 3,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-22",
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-27",
+        "hora_inicio": 12,
+        "hora_fin": 12,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 3,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -158,6 +215,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Futaleufu",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Futrono",
     "rango_alertas": []
   },
@@ -275,10 +336,6 @@
   },
   {
     "comuna": "Nueva Imperial",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
@@ -418,19 +475,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -455,10 +504,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
