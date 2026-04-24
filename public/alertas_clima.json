@@ -1,11 +1,34 @@
 [
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 6,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Temuco",
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 12,
-        "hora_fin": 14,
+        "hora_inicio": 3,
+        "hora_fin": 8,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 11,
+        "hora_fin": 11,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-01",
+        "hora_inicio": 0,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -15,8 +38,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_inicio": 6,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -25,9 +48,15 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
+        "fecha": "2026-04-27",
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2026-04-28",
-        "hora_inicio": 8,
-        "hora_fin": 11,
+        "hora_inicio": 0,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -36,9 +65,33 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
+        "fecha": "2026-04-27",
+        "hora_inicio": 21,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2026-04-28",
-        "hora_inicio": 13,
-        "hora_fin": 14,
+        "hora_inicio": 0,
+        "hora_fin": 8,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-30",
+        "hora_inicio": 18,
+        "hora_fin": 18,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-30",
+        "hora_inicio": 20,
+        "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-01",
+        "hora_inicio": 3,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -441,10 +494,6 @@
   },
   {
     "comuna": "San Pablo",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "San Rosendo",
     "rango_alertas": []
   },
   {
