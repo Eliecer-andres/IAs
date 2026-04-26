@@ -5,7 +5,7 @@
       {
         "fecha": "2026-04-28",
         "hora_inicio": 17,
-        "hora_fin": 17,
+        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -15,8 +15,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 12,
-        "hora_fin": 14,
+        "hora_inicio": 15,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -27,7 +27,7 @@
       {
         "fecha": "2026-04-28",
         "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -37,13 +37,7 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 9,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-28",
-        "hora_inicio": 14,
+        "hora_inicio": 10,
         "hora_fin": 14,
         "impacto_llamadas_adicionales": 0
       }
@@ -54,20 +48,20 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-27",
-        "hora_inicio": 18,
-        "hora_fin": 18,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-04-27",
         "hora_inicio": 21,
-        "hora_fin": 21,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 12,
-        "hora_fin": 14,
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-04-28",
+        "hora_inicio": 14,
+        "hora_fin": 15,
         "impacto_llamadas_adicionales": 0
       }
     ]
