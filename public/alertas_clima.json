@@ -1,11 +1,11 @@
 [
   {
-    "comuna": "San Rosendo",
+    "comuna": "Lago Verde",
     "rango_alertas": [
       {
-        "fecha": "2026-04-28",
-        "hora_inicio": 17,
-        "hora_fin": 18,
+        "fecha": "2026-05-04",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -15,8 +15,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 15,
-        "hora_fin": 16,
+        "hora_inicio": 19,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -26,8 +26,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 18,
-        "hora_fin": 19,
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -37,8 +37,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 10,
-        "hora_fin": 14,
+        "hora_inicio": 15,
+        "hora_fin": 17,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -49,19 +49,19 @@
       {
         "fecha": "2026-04-27",
         "hora_inicio": 21,
-        "hora_fin": 23,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-04-28",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_inicio": 17,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-04-28",
-        "hora_inicio": 14,
-        "hora_fin": 15,
+        "fecha": "2026-05-03",
+        "hora_inicio": 6,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -232,10 +232,6 @@
   },
   {
     "comuna": "Lago Ranco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lago Verde",
     "rango_alertas": []
   },
   {
@@ -464,6 +460,10 @@
   },
   {
     "comuna": "San Pablo",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "San Rosendo",
     "rango_alertas": []
   },
   {
