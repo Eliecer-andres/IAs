@@ -1,51 +1,44 @@
 [
   {
-    "comuna": "San Rosendo",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
-        "fecha": "2026-05-03",
-        "hora_inicio": 9,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-05-05",
-        "hora_inicio": 8,
-        "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-05-05",
-        "hora_inicio": 12,
-        "hora_fin": 14,
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Temuco",
+    "comuna": "Llanquihue",
     "rango_alertas": [
       {
-        "fecha": "2026-05-05",
-        "hora_inicio": 10,
-        "hora_fin": 11,
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
   },
   {
-    "comuna": "Tome",
+    "comuna": "Puerto Montt",
     "rango_alertas": [
       {
-        "fecha": "2026-05-03",
-        "hora_inicio": 12,
-        "hora_fin": 12,
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Puerto Varas",
+    "rango_alertas": [
       {
-        "fecha": "2026-05-05",
-        "hora_inicio": 15,
-        "hora_fin": 20,
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -55,8 +48,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-05-05",
-        "hora_inicio": 9,
-        "hora_fin": 11,
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-05",
+        "hora_inicio": 21,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -64,6 +63,12 @@
   {
     "comuna": "Villarrica",
     "rango_alertas": [
+      {
+        "fecha": "2026-05-03",
+        "hora_inicio": 8,
+        "hora_fin": 8,
+        "impacto_llamadas_adicionales": 0
+      },
       {
         "fecha": "2026-05-04",
         "hora_inicio": 18,
@@ -77,22 +82,18 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-05-05",
-        "hora_inicio": 5,
-        "hora_fin": 7,
+        "fecha": "2026-05-06",
+        "hora_inicio": 2,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-05-05",
-        "hora_inicio": 17,
-        "hora_fin": 17,
+        "fecha": "2026-05-06",
+        "hora_inicio": 8,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -279,10 +280,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Llanquihue",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Loncoche",
     "rango_alertas": []
   },
@@ -399,15 +396,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Puerto Montt",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Puerto Octay",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Puerto Varas",
     "rango_alertas": []
   },
   {
@@ -491,11 +480,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -508,6 +505,10 @@
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
