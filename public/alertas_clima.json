@@ -1,11 +1,66 @@
 [
   {
-    "comuna": "Tome",
+    "comuna": "Collipulli",
     "rango_alertas": [
       {
         "fecha": "2026-05-06",
-        "hora_inicio": 7,
-        "hora_fin": 7,
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Sauces",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Perquenco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 1,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-05",
+        "hora_inicio": 16,
+        "hora_fin": 16,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Traiguen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -14,9 +69,26 @@
     "comuna": "Valdivia",
     "rango_alertas": [
       {
-        "fecha": "2026-05-05",
-        "hora_inicio": 2,
-        "hora_fin": 4,
+        "fecha": "2026-05-06",
+        "hora_inicio": 7,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 11,
+        "hora_fin": 11,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Victoria",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -25,14 +97,8 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-05-03",
-        "hora_inicio": 9,
-        "hora_fin": 10,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-05-04",
-        "hora_inicio": 17,
+        "hora_inicio": 18,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
@@ -45,7 +111,13 @@
       {
         "fecha": "2026-05-06",
         "hora_inicio": 6,
-        "hora_fin": 11,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-06",
+        "hora_inicio": 12,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -116,10 +188,6 @@
   },
   {
     "comuna": "Cochrane",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Collipulli",
     "rango_alertas": []
   },
   {
@@ -267,10 +335,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Sauces",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Lota",
     "rango_alertas": []
   },
@@ -336,10 +400,6 @@
   },
   {
     "comuna": "Pemuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Perquenco",
     "rango_alertas": []
   },
   {
@@ -451,19 +511,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -479,15 +531,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Traiguen",
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Victoria",
     "rango_alertas": []
   },
   {
