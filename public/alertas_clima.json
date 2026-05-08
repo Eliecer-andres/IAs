@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Chile Chico",
+    "comuna": "Ohiggins",
     "rango_alertas": [
       {
         "fecha": "2026-05-11",
@@ -11,29 +11,12 @@
     ]
   },
   {
-    "comuna": "Rio Ibañez",
+    "comuna": "Tome",
     "rango_alertas": [
       {
-        "fecha": "2026-05-11",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Villarrica",
-    "rango_alertas": [
-      {
-        "fecha": "2026-05-13",
-        "hora_inicio": 20,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-05-14",
-        "hora_inicio": 0,
-        "hora_fin": 2,
+        "fecha": "2026-05-08",
+        "hora_inicio": 6,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -84,6 +67,10 @@
   },
   {
     "comuna": "Chaiten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Chile Chico",
     "rango_alertas": []
   },
   {
@@ -295,10 +282,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Ohiggins",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Osorno",
     "rango_alertas": []
   },
@@ -411,6 +394,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Rio Ibañez",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Rio Negro",
     "rango_alertas": []
   },
@@ -459,10 +446,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Tome",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Traiguen",
     "rango_alertas": []
   },
@@ -480,6 +463,10 @@
   },
   {
     "comuna": "Vilcun",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Villarrica",
     "rango_alertas": []
   },
   {
