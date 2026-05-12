@@ -1,16 +1,5 @@
 [
   {
-    "comuna": "Ohiggins",
-    "rango_alertas": [
-      {
-        "fecha": "2026-05-11",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Alto Bio Bio",
     "rango_alertas": []
   },
@@ -268,6 +257,10 @@
   },
   {
     "comuna": "Nueva Imperial",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
