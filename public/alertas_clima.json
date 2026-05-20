@@ -1,5 +1,34 @@
 [
   {
+    "comuna": "Villarrica",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-25",
+        "hora_inicio": 21,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-26",
+        "hora_inicio": 2,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-26",
+        "hora_inicio": 5,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-05-27",
+        "hora_inicio": 8,
+        "hora_fin": 13,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Alto Bio Bio",
     "rango_alertas": []
   },
@@ -449,10 +478,6 @@
   },
   {
     "comuna": "Vilcun",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Villarrica",
     "rango_alertas": []
   },
   {
