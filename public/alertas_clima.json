@@ -1,23 +1,57 @@
 [
   {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-27",
+        "hora_inicio": 17,
+        "hora_fin": 17,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Valdivia",
+    "rango_alertas": [
+      {
+        "fecha": "2026-05-28",
+        "hora_inicio": 5,
+        "hora_fin": 5,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 10,
+        "hora_fin": 11,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
         "fecha": "2026-05-27",
-        "hora_inicio": 18,
-        "hora_fin": 18,
+        "hora_inicio": 16,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-06-01",
-        "hora_inicio": 21,
-        "hora_fin": 22,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-02",
+        "fecha": "2026-05-28",
         "hora_inicio": 2,
         "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 9,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 12,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -435,10 +469,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Temuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -460,10 +490,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Valdivia",
     "rango_alertas": []
   },
   {
