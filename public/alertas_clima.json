@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Tirua",
+    "comuna": "Osorno",
     "rango_alertas": [
       {
         "fecha": "2026-06-03",
@@ -11,18 +11,29 @@
     ]
   },
   {
-    "comuna": "Villarrica",
+    "comuna": "Tome",
     "rango_alertas": [
       {
         "fecha": "2026-06-03",
-        "hora_inicio": 1,
-        "hora_fin": 8,
+        "hora_inicio": 6,
+        "hora_fin": 7,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-01",
+        "hora_inicio": 22,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-06-04",
-        "hora_inicio": 20,
-        "hora_fin": 20,
+        "fecha": "2026-06-03",
+        "hora_inicio": 1,
+        "hora_fin": 10,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -292,10 +303,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Osorno",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Padre Las Casas",
     "rango_alertas": []
   },
@@ -448,11 +455,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Tolten",
+    "comuna": "Tirua",
     "rango_alertas": []
   },
   {
-    "comuna": "Tome",
+    "comuna": "Tolten",
     "rango_alertas": []
   },
   {
