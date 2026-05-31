@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Osorno",
+    "comuna": "Arauco",
     "rango_alertas": [
       {
         "fecha": "2026-06-03",
@@ -11,12 +11,111 @@
     ]
   },
   {
-    "comuna": "Tome",
+    "comuna": "Contulmo",
     "rango_alertas": [
       {
         "fecha": "2026-06-03",
-        "hora_inicio": 6,
-        "hora_fin": 7,
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Curanilahue",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Freire",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Futrono",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Lanco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Loncoche",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Alamos",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Lagos",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Pitrufquen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-03",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -26,14 +125,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-06-01",
-        "hora_inicio": 22,
+        "hora_inicio": 20,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-06-03",
-        "hora_inicio": 1,
-        "hora_fin": 10,
+        "hora_inicio": 0,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -52,10 +151,6 @@
   },
   {
     "comuna": "Antuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Arauco",
     "rango_alertas": []
   },
   {
@@ -111,10 +206,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Contulmo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Coronel",
     "rango_alertas": []
   },
@@ -139,10 +230,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Curanilahue",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Curarrehue",
     "rango_alertas": []
   },
@@ -163,10 +250,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Freire",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Fresia",
     "rango_alertas": []
   },
@@ -176,10 +259,6 @@
   },
   {
     "comuna": "Futaleufu",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Futrono",
     "rango_alertas": []
   },
   {
@@ -215,10 +294,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Lanco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Lautaro",
     "rango_alertas": []
   },
@@ -231,23 +306,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Loncoche",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Lonquimay",
     "rango_alertas": []
   },
   {
-    "comuna": "Los Alamos",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Angeles",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Los Lagos",
     "rango_alertas": []
   },
   {
@@ -303,6 +366,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Osorno",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Padre Las Casas",
     "rango_alertas": []
   },
@@ -328,10 +395,6 @@
   },
   {
     "comuna": "Pinto",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Pitrufquen",
     "rango_alertas": []
   },
   {
@@ -435,10 +498,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
@@ -460,6 +519,10 @@
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
