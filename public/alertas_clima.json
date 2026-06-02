@@ -1,193 +1,6 @@
 [
   {
-    "comuna": "Arauco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Cañete",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Contulmo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curanilahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Galvarino",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Gorbea",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lago Ranco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lautaro",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Llanquihue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Loncoche",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lota",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lumaco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Paillaco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Panguipulli",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puerto Montt",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puerto Varas",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Puren",
+    "comuna": "Melipeuco",
     "rango_alertas": [
       {
         "fecha": "2026-06-03",
@@ -201,37 +14,21 @@
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-06-01",
+        "fecha": "2026-06-02",
         "hora_inicio": 23,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-06-03",
-        "hora_inicio": 1,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Santa Juana",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tolten",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-06-09",
+        "hora_inicio": 16,
+        "hora_fin": 19,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -242,18 +39,13 @@
       {
         "fecha": "2026-06-03",
         "hora_inicio": 1,
-        "hora_fin": 2,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Traiguen",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-06-09",
+        "hora_inicio": 17,
+        "hora_fin": 17,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -263,8 +55,8 @@
     "rango_alertas": [
       {
         "fecha": "2026-06-02",
-        "hora_inicio": 23,
-        "hora_fin": 23,
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -273,33 +65,15 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-06-01",
-        "hora_inicio": 21,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-06-02",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_inicio": 22,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-06-03",
         "hora_inicio": 0,
-        "hora_fin": 2,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 8,
-        "hora_fin": 9,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-08",
-        "hora_inicio": 21,
-        "hora_fin": 21,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -321,6 +95,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Arauco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Bulnes",
     "rango_alertas": []
   },
@@ -338,6 +116,10 @@
   },
   {
     "comuna": "Castro",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cañete",
     "rango_alertas": []
   },
   {
@@ -369,6 +151,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Contulmo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Coronel",
     "rango_alertas": []
   },
@@ -390,6 +176,10 @@
   },
   {
     "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
@@ -433,6 +223,14 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Galvarino",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Gorbea",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Hualaihue",
     "rango_alertas": []
   },
@@ -445,6 +243,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lago Ranco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lago Verde",
     "rango_alertas": []
   },
@@ -453,7 +255,23 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lanco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lautaro",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lebu",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Llanquihue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Loncoche",
     "rango_alertas": []
   },
   {
@@ -481,6 +299,14 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lota",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lumaco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Mafil",
     "rango_alertas": []
   },
@@ -490,10 +316,6 @@
   },
   {
     "comuna": "Maullin",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Melipeuco",
     "rango_alertas": []
   },
   {
@@ -525,7 +347,15 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Paillaco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Palena",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Panguipulli",
     "rango_alertas": []
   },
   {
@@ -553,11 +383,23 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Puerto Montt",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Puerto Octay",
     "rango_alertas": []
   },
   {
+    "comuna": "Puerto Varas",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Puqueldon",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Puren",
     "rango_alertas": []
   },
   {
@@ -637,6 +479,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Santa Juana",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Temuco",
     "rango_alertas": []
   },
@@ -646,6 +492,14 @@
   },
   {
     "comuna": "Tirua",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Traiguen",
     "rango_alertas": []
   },
   {
