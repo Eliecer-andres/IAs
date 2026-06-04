@@ -1,119 +1,9 @@
 [
   {
-    "comuna": "Collipulli",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Curacautin",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Ercilla",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Frutillar",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Laja",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Los Angeles",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Nacimiento",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Negrete",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-06-03",
-        "hora_inicio": 0,
-        "hora_fin": 1,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Victoria",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-03",
+        "fecha": "2026-06-10",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -123,6 +13,12 @@
   {
     "comuna": "Villarrica",
     "rango_alertas": [
+      {
+        "fecha": "2026-06-10",
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
       {
         "fecha": "2026-06-10",
         "hora_inicio": 8,
@@ -200,6 +96,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Collipulli",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Contulmo",
     "rango_alertas": []
   },
@@ -217,6 +117,10 @@
   },
   {
     "comuna": "Cunco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curacautin",
     "rango_alertas": []
   },
   {
@@ -240,6 +144,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Ercilla",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Florida",
     "rango_alertas": []
   },
@@ -249,6 +157,10 @@
   },
   {
     "comuna": "Fresia",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Frutillar",
     "rango_alertas": []
   },
   {
@@ -288,6 +200,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Laja",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lanco",
     "rango_alertas": []
   },
@@ -313,6 +229,10 @@
   },
   {
     "comuna": "Los Alamos",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Los Angeles",
     "rango_alertas": []
   },
   {
@@ -348,7 +268,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Melipeuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Mulchen",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Nacimiento",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Negrete",
     "rango_alertas": []
   },
   {
@@ -533,6 +465,10 @@
   },
   {
     "comuna": "Valdivia",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Victoria",
     "rango_alertas": []
   },
   {
