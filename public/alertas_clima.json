@@ -9,9 +9,31 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-06-13",
-        "hora_inicio": 8,
-        "hora_fin": 8,
+        "fecha": "2026-06-12",
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-12",
+        "hora_inicio": 15,
+        "hora_fin": 16,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Villarrica",
+    "rango_alertas": [
+      {
+        "fecha": "2026-06-12",
+        "hora_inicio": 7,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -425,10 +447,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Temuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -462,10 +480,6 @@
   },
   {
     "comuna": "Vilcun",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Villarrica",
     "rango_alertas": []
   },
   {
