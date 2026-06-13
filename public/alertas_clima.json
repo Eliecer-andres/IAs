@@ -1,74 +1,5 @@
 [
   {
-    "comuna": "Temuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 10,
-        "hora_fin": 12,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 15,
-        "hora_fin": 17,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Valdivia",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 0,
-        "hora_fin": 4,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 7,
-        "hora_fin": 7,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-19",
-        "hora_inicio": 21,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Villarrica",
-    "rango_alertas": [
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 5,
-        "hora_fin": 12,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-12",
-        "hora_inicio": 17,
-        "hora_fin": 17,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-17",
-        "hora_inicio": 21,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-06-18",
-        "hora_inicio": 0,
-        "hora_fin": 1,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Alto Bio Bio",
     "rango_alertas": []
   },
@@ -481,6 +412,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Temuco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Teodoro Schmidt",
     "rango_alertas": []
   },
@@ -505,11 +440,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Valdivia",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Victoria",
     "rango_alertas": []
   },
   {
     "comuna": "Vilcun",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Villarrica",
     "rango_alertas": []
   },
   {
