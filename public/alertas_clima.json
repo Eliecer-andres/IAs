@@ -5,7 +5,7 @@
       {
         "fecha": "2026-06-24",
         "hora_inicio": 7,
-        "hora_fin": 10,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -22,19 +22,31 @@
       {
         "fecha": "2026-06-24",
         "hora_inicio": 7,
-        "hora_fin": 10,
+        "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-06-24",
+        "hora_inicio": 12,
+        "hora_fin": 12,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-06-25",
-        "hora_inicio": 20,
-        "hora_fin": 20,
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-06-29",
-        "hora_inicio": 18,
+        "hora_inicio": 21,
         "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-06-30",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       },
       {
