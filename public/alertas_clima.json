@@ -1,11 +1,331 @@
 [
   {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Antuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Arauco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Coronel",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Cunco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Freire",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Gorbea",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Laja",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Los Angeles",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Lota",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Melipeuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Mulchen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Nacimiento",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Negrete",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Nueva Imperial",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Padre Las Casas",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Pinto",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Pitrufquen",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quilaco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Quilleco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Renaico",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Saavedra",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Ignacio",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-07",
+        "hora_inicio": 15,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Santa Barbara",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Santa Juana",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-07",
+        "hora_inicio": 15,
+        "hora_fin": 15,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-07-07",
+        "hora_inicio": 18,
+        "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Tome",
     "rango_alertas": [
       {
         "fecha": "2026-07-08",
-        "hora_inicio": 19,
-        "hora_fin": 19,
+        "hora_inicio": 1,
+        "hora_fin": 1,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Tucapel",
+    "rango_alertas": [
+      {
+        "fecha": "2026-07-08",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -15,26 +335,19 @@
     "rango_alertas": [
       {
         "fecha": "2026-07-07",
-        "hora_inicio": 15,
-        "hora_fin": 16,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-07-08",
-        "hora_inicio": 7,
-        "hora_fin": 7,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-07-08",
-        "hora_inicio": 9,
+        "hora_inicio": 6,
         "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Vilcun",
+    "rango_alertas": [
       {
         "fecha": "2026-07-08",
-        "hora_inicio": 13,
-        "hora_fin": 13,
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -43,34 +356,24 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
+        "fecha": "2026-07-07",
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2026-07-08",
-        "hora_inicio": 2,
+        "hora_inicio": 1,
         "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-07-08",
         "hora_inicio": 6,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-07-08",
-        "hora_inicio": 16,
-        "hora_fin": 16,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-07-08",
-        "hora_inicio": 20,
-        "hora_fin": 20,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -78,14 +381,6 @@
   },
   {
     "comuna": "Angol",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Antuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Arauco",
     "rango_alertas": []
   },
   {
@@ -145,19 +440,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Coronel",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Corral",
     "rango_alertas": []
   },
   {
     "comuna": "Coyhaique",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Cunco",
     "rango_alertas": []
   },
   {
@@ -193,10 +480,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Freire",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Fresia",
     "rango_alertas": []
   },
@@ -217,10 +500,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Gorbea",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Hualaihue",
     "rango_alertas": []
   },
@@ -238,10 +517,6 @@
   },
   {
     "comuna": "Lago Verde",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Laja",
     "rango_alertas": []
   },
   {
@@ -273,10 +548,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Los Angeles",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Los Lagos",
     "rango_alertas": []
   },
@@ -286,10 +557,6 @@
   },
   {
     "comuna": "Los Sauces",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lota",
     "rango_alertas": []
   },
   {
@@ -309,35 +576,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Melipeuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Mulchen",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Nacimiento",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Negrete",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Nueva Imperial",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Ohiggins",
     "rango_alertas": []
   },
   {
     "comuna": "Osorno",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Padre Las Casas",
     "rango_alertas": []
   },
   {
@@ -358,14 +601,6 @@
   },
   {
     "comuna": "Perquenco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Pinto",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Pitrufquen",
     "rango_alertas": []
   },
   {
@@ -417,14 +652,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Quilaco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Quilleco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Quillon",
     "rango_alertas": []
   },
@@ -434,10 +661,6 @@
   },
   {
     "comuna": "Ranquil",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Renaico",
     "rango_alertas": []
   },
   {
@@ -453,35 +676,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Saavedra",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "San Ignacio",
-    "rango_alertas": []
-  },
-  {
     "comuna": "San Juan De La Costa",
     "rango_alertas": []
   },
   {
     "comuna": "San Pablo",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Santa Barbara",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -501,15 +700,7 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Victoria",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Vilcun",
     "rango_alertas": []
   },
   {
