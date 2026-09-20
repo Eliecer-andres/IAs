@@ -1,9 +1,9 @@
 [
   {
-    "comuna": "Angol",
+    "comuna": "Cunco",
     "rango_alertas": [
       {
-        "fecha": "2026-09-20",
+        "fecha": "2026-09-23",
         "hora_inicio": 0,
         "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
@@ -11,12 +11,78 @@
     ]
   },
   {
-    "comuna": "Curanilahue",
+    "comuna": "Curacautin",
     "rango_alertas": [
       {
-        "fecha": "2026-09-20",
+        "fecha": "2026-09-23",
         "hora_inicio": 0,
         "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Frutillar",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Lautaro",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Melipeuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Perquenco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "San Rosendo",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 1,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Temuco",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-22",
+        "hora_inicio": 23,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -25,9 +91,9 @@
     "comuna": "Tome",
     "rango_alertas": [
       {
-        "fecha": "2026-09-19",
-        "hora_inicio": 19,
-        "hora_fin": 19,
+        "fecha": "2026-09-24",
+        "hora_inicio": 17,
+        "hora_fin": 17,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -37,14 +103,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 7,
-        "hora_fin": 7,
+        "hora_inicio": 8,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 9,
-        "hora_fin": 10,
+        "hora_inicio": 10,
+        "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       },
       {
@@ -54,15 +120,31 @@
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-09-24",
-        "hora_inicio": 1,
-        "hora_fin": 1,
+        "fecha": "2026-09-23",
+        "hora_inicio": 15,
+        "hora_fin": 15,
         "impacto_llamadas_adicionales": 0
-      },
+      }
+    ]
+  },
+  {
+    "comuna": "Victoria",
+    "rango_alertas": [
       {
-        "fecha": "2026-09-24",
-        "hora_inicio": 4,
-        "hora_fin": 6,
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Vilcun",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -72,20 +154,20 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 1,
-        "hora_fin": 13,
+        "hora_inicio": 2,
+        "hora_fin": 3,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 16,
+        "hora_inicio": 5,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
         "hora_inicio": 0,
-        "hora_fin": 12,
+        "hora_fin": 5,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -96,6 +178,10 @@
   },
   {
     "comuna": "Ancud",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Angol",
     "rango_alertas": []
   },
   {
@@ -175,15 +261,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Cunco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Curacautin",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Curaco De Velez",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curanilahue",
     "rango_alertas": []
   },
   {
@@ -212,10 +294,6 @@
   },
   {
     "comuna": "Fresia",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Frutillar",
     "rango_alertas": []
   },
   {
@@ -260,10 +338,6 @@
   },
   {
     "comuna": "Lanco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lautaro",
     "rango_alertas": []
   },
   {
@@ -323,10 +397,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Melipeuco",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Mulchen",
     "rango_alertas": []
   },
@@ -368,10 +438,6 @@
   },
   {
     "comuna": "Pemuco",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Perquenco",
     "rango_alertas": []
   },
   {
@@ -483,19 +549,11 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
   {
     "comuna": "Santa Juana",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Temuco",
     "rango_alertas": []
   },
   {
@@ -516,14 +574,6 @@
   },
   {
     "comuna": "Tucapel",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Victoria",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Vilcun",
     "rango_alertas": []
   },
   {
