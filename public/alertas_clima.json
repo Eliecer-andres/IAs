@@ -1,6 +1,6 @@
 [
   {
-    "comuna": "Cunco",
+    "comuna": "Alto Bio Bio",
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
@@ -11,7 +11,7 @@
     ]
   },
   {
-    "comuna": "Curacautin",
+    "comuna": "Corral",
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
@@ -22,40 +22,7 @@
     ]
   },
   {
-    "comuna": "Frutillar",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lautaro",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Melipeuco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Perquenco",
+    "comuna": "Mafil",
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
@@ -71,7 +38,13 @@
       {
         "fecha": "2026-09-23",
         "hora_inicio": 0,
-        "hora_fin": 1,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-24",
+        "hora_inicio": 2,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -80,20 +53,15 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-09-22",
-        "hora_inicio": 23,
-        "hora_fin": 23,
+        "fecha": "2026-09-24",
+        "hora_inicio": 4,
+        "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
+      },
       {
         "fecha": "2026-09-24",
-        "hora_inicio": 17,
-        "hora_fin": 17,
+        "hora_inicio": 6,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -103,48 +71,26 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 8,
-        "hora_fin": 8,
+        "hora_inicio": 1,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 10,
+        "hora_inicio": 4,
         "hora_fin": 11,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 13,
-        "hora_fin": 13,
+        "hora_inicio": 14,
+        "hora_fin": 15,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 15,
-        "hora_fin": 15,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Victoria",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Vilcun",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "hora_inicio": 23,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -154,27 +100,35 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 2,
-        "hora_fin": 3,
+        "hora_inicio": 1,
+        "hora_fin": 13,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 5,
+        "hora_inicio": 16,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
         "hora_inicio": 0,
-        "hora_fin": 5,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-24",
+        "hora_inicio": 8,
+        "hora_fin": 8,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-28",
+        "hora_inicio": 21,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
-  },
-  {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -253,11 +207,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Corral",
+    "comuna": "Coyhaique",
     "rango_alertas": []
   },
   {
-    "comuna": "Coyhaique",
+    "comuna": "Cunco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Curacautin",
     "rango_alertas": []
   },
   {
@@ -294,6 +252,10 @@
   },
   {
     "comuna": "Fresia",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Frutillar",
     "rango_alertas": []
   },
   {
@@ -341,6 +303,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lautaro",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lebu",
     "rango_alertas": []
   },
@@ -385,15 +351,15 @@
     "rango_alertas": []
   },
   {
-    "comuna": "Mafil",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Mariquina",
     "rango_alertas": []
   },
   {
     "comuna": "Maullin",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Melipeuco",
     "rango_alertas": []
   },
   {
@@ -438,6 +404,10 @@
   },
   {
     "comuna": "Pemuco",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Perquenco",
     "rango_alertas": []
   },
   {
@@ -569,11 +539,23 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Tome",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Traiguen",
     "rango_alertas": []
   },
   {
     "comuna": "Tucapel",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Victoria",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Vilcun",
     "rango_alertas": []
   },
   {
