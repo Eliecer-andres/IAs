@@ -11,73 +11,7 @@
     ]
   },
   {
-    "comuna": "Carahue",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Cholchol",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Freire",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Gorbea",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Loncoche",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lonquimay",
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
@@ -99,23 +33,18 @@
     ]
   },
   {
-    "comuna": "Pitrufquen",
+    "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
+        "fecha": "2026-09-29",
+        "hora_inicio": 22,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Saavedra",
-    "rango_alertas": [
+      },
       {
-        "fecha": "2026-09-23",
+        "fecha": "2026-09-30",
         "hora_inicio": 0,
-        "hora_fin": 0,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -125,48 +54,26 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
         "hora_inicio": 4,
         "hora_fin": 4,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 22,
-        "hora_fin": 22,
+        "hora_inicio": 11,
+        "hora_fin": 13,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
-        "hora_inicio": 4,
-        "hora_fin": 4,
+        "hora_inicio": 2,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Teodoro Schmidt",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
+      },
       {
         "fecha": "2026-09-24",
-        "hora_inicio": 10,
-        "hora_fin": 10,
+        "hora_inicio": 7,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -176,8 +83,38 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-23",
+        "hora_inicio": 1,
+        "hora_fin": 1,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 3,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-23",
         "hora_inicio": 5,
+        "hora_fin": 7,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 9,
         "hora_fin": 11,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-23",
+        "hora_inicio": 20,
+        "hora_fin": 20,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-24",
+        "hora_inicio": 1,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -193,19 +130,37 @@
       },
       {
         "fecha": "2026-09-23",
-        "hora_inicio": 6,
+        "hora_inicio": 5,
         "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
         "hora_inicio": 0,
-        "hora_fin": 5,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       },
       {
-        "fecha": "2026-09-24",
-        "hora_inicio": 9,
+        "fecha": "2026-09-28",
+        "hora_inicio": 21,
+        "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-29",
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-30",
+        "hora_inicio": 1,
+        "hora_fin": 3,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-30",
+        "hora_inicio": 7,
         "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
@@ -240,6 +195,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Carahue",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Castro",
     "rango_alertas": []
   },
@@ -253,6 +212,10 @@
   },
   {
     "comuna": "Chile Chico",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Cholchol",
     "rango_alertas": []
   },
   {
@@ -324,6 +287,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Freire",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Fresia",
     "rango_alertas": []
   },
@@ -341,6 +308,10 @@
   },
   {
     "comuna": "Galvarino",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Gorbea",
     "rango_alertas": []
   },
   {
@@ -377,6 +348,14 @@
   },
   {
     "comuna": "Llanquihue",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Loncoche",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Lonquimay",
     "rango_alertas": []
   },
   {
@@ -472,6 +451,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Pitrufquen",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Pucon",
     "rango_alertas": []
   },
@@ -556,6 +539,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Saavedra",
+    "rango_alertas": []
+  },
+  {
     "comuna": "San Ignacio",
     "rango_alertas": []
   },
@@ -568,10 +555,6 @@
     "rango_alertas": []
   },
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": []
-  },
-  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
@@ -580,11 +563,19 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Teodoro Schmidt",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Tirua",
     "rango_alertas": []
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
