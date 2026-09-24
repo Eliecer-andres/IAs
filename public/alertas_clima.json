@@ -1,50 +1,11 @@
 [
   {
-    "comuna": "Alto Bio Bio",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Lanco",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Padre Las Casas",
-    "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 0,
-        "hora_fin": 0,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "San Rosendo",
     "rango_alertas": [
       {
-        "fecha": "2026-09-29",
-        "hora_inicio": 22,
-        "hora_fin": 23,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-30",
-        "hora_inicio": 0,
-        "hora_fin": 1,
+        "fecha": "2026-09-24",
+        "hora_inicio": 15,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -53,27 +14,32 @@
     "comuna": "Temuco",
     "rango_alertas": [
       {
-        "fecha": "2026-09-23",
-        "hora_inicio": 4,
-        "hora_fin": 4,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 11,
-        "hora_fin": 13,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-09-24",
         "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_fin": 6,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
-        "hora_inicio": 7,
-        "hora_fin": 7,
+        "hora_inicio": 10,
+        "hora_fin": 10,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
+    "comuna": "Tome",
+    "rango_alertas": [
+      {
+        "fecha": "2026-09-24",
+        "hora_inicio": 14,
+        "hora_fin": 14,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-24",
+        "hora_inicio": 16,
+        "hora_fin": 16,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -81,36 +47,6 @@
   {
     "comuna": "Valdivia",
     "rango_alertas": [
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 1,
-        "hora_fin": 1,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 3,
-        "hora_fin": 3,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 5,
-        "hora_fin": 7,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 9,
-        "hora_fin": 11,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 20,
-        "hora_fin": 20,
-        "impacto_llamadas_adicionales": 0
-      },
       {
         "fecha": "2026-09-24",
         "hora_inicio": 1,
@@ -123,48 +59,46 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-09-23",
-        "hora_inicio": 1,
-        "hora_fin": 3,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-23",
-        "hora_inicio": 5,
-        "hora_fin": 23,
+        "fecha": "2026-09-24",
+        "hora_inicio": 0,
+        "hora_fin": 7,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-24",
-        "hora_inicio": 0,
+        "hora_inicio": 9,
         "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-28",
         "hora_inicio": 21,
-        "hora_fin": 22,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-29",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-30",
-        "hora_inicio": 1,
+        "hora_inicio": 16,
+        "hora_fin": 16,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-30",
+        "hora_inicio": 18,
+        "hora_fin": 23,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-01",
+        "hora_inicio": 0,
         "hora_fin": 3,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-09-30",
-        "hora_inicio": 7,
-        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
     ]
+  },
+  {
+    "comuna": "Alto Bio Bio",
+    "rango_alertas": []
   },
   {
     "comuna": "Ancud",
@@ -339,6 +273,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "Lanco",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Lautaro",
     "rango_alertas": []
   },
@@ -424,6 +362,10 @@
   },
   {
     "comuna": "Osorno",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Padre Las Casas",
     "rango_alertas": []
   },
   {
@@ -572,10 +514,6 @@
   },
   {
     "comuna": "Tolten",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Tome",
     "rango_alertas": []
   },
   {
