@@ -13,6 +13,12 @@
         "hora_inicio": 12,
         "hora_fin": 13,
         "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-09-30",
+        "hora_inicio": 20,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
       }
     ]
   },
