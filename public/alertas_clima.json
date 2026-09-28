@@ -4,14 +4,14 @@
     "rango_alertas": [
       {
         "fecha": "2026-09-30",
-        "hora_inicio": 7,
-        "hora_fin": 10,
+        "hora_inicio": 2,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-09-30",
-        "hora_inicio": 12,
-        "hora_fin": 13,
+        "hora_inicio": 6,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
     ]
