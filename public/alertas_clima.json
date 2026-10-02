@@ -1,22 +1,17 @@
 [
   {
-    "comuna": "San Rosendo",
-    "rango_alertas": [
-      {
-        "fecha": "2026-10-02",
-        "hora_inicio": 7,
-        "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
     "comuna": "Tome",
     "rango_alertas": [
       {
         "fecha": "2026-10-02",
         "hora_inicio": 6,
-        "hora_fin": 7,
+        "hora_fin": 6,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-06",
+        "hora_inicio": 9,
+        "hora_fin": 9,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -25,9 +20,27 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
+        "fecha": "2026-10-05",
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-06",
+        "hora_inicio": 2,
+        "hora_fin": 2,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
         "fecha": "2026-10-07",
-        "hora_inicio": 8,
+        "hora_inicio": 7,
         "hora_fin": 9,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-07",
+        "hora_inicio": 20,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -430,6 +443,10 @@
   },
   {
     "comuna": "San Pablo",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "San Rosendo",
     "rango_alertas": []
   },
   {
