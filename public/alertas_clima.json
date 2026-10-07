@@ -1,22 +1,11 @@
 [
   {
-    "comuna": "San Rosendo",
+    "comuna": "Lebu",
     "rango_alertas": [
       {
-        "fecha": "2026-10-06",
-        "hora_inicio": 3,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      }
-    ]
-  },
-  {
-    "comuna": "Tome",
-    "rango_alertas": [
-      {
-        "fecha": "2026-10-06",
-        "hora_inicio": 3,
-        "hora_fin": 5,
+        "fecha": "2026-10-07",
+        "hora_inicio": 0,
+        "hora_fin": 0,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -25,21 +14,21 @@
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-10-06",
-        "hora_inicio": 1,
-        "hora_fin": 3,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-10-06",
-        "hora_inicio": 5,
-        "hora_fin": 6,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
         "fecha": "2026-10-07",
-        "hora_inicio": 7,
-        "hora_fin": 9,
+        "hora_inicio": 21,
+        "hora_fin": 21,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-12",
+        "hora_inicio": 21,
+        "hora_fin": 22,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-10-13",
+        "hora_inicio": 2,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -226,10 +215,6 @@
   },
   {
     "comuna": "Lautaro",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Lebu",
     "rango_alertas": []
   },
   {
@@ -445,6 +430,10 @@
     "rango_alertas": []
   },
   {
+    "comuna": "San Rosendo",
+    "rango_alertas": []
+  },
+  {
     "comuna": "Santa Barbara",
     "rango_alertas": []
   },
@@ -466,6 +455,10 @@
   },
   {
     "comuna": "Tolten",
+    "rango_alertas": []
+  },
+  {
+    "comuna": "Tome",
     "rango_alertas": []
   },
   {
