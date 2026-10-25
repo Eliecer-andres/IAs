@@ -4,38 +4,26 @@
     "rango_alertas": [
       {
         "fecha": "2026-10-26",
-        "hora_inicio": 21,
-        "hora_fin": 21,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-10-27",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_inicio": 19,
+        "hora_fin": 22,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-10-28",
         "hora_inicio": 17,
-        "hora_fin": 23,
+        "hora_fin": 21,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-10-29",
-        "hora_inicio": 0,
-        "hora_fin": 3,
+        "hora_inicio": 2,
+        "hora_fin": 2,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-10-29",
         "hora_inicio": 8,
         "hora_fin": 8,
-        "impacto_llamadas_adicionales": 0
-      },
-      {
-        "fecha": "2026-10-29",
-        "hora_inicio": 17,
-        "hora_fin": 18,
         "impacto_llamadas_adicionales": 0
       }
     ]
