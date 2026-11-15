@@ -33,24 +33,35 @@
     ]
   },
   {
+    "comuna": "Ranquil",
+    "rango_alertas": [
+      {
+        "fecha": "2026-11-18",
+        "hora_inicio": 0,
+        "hora_fin": 0,
+        "impacto_llamadas_adicionales": 0
+      }
+    ]
+  },
+  {
     "comuna": "Villarrica",
     "rango_alertas": [
       {
-        "fecha": "2026-11-14",
-        "hora_inicio": 17,
-        "hora_fin": 20,
+        "fecha": "2026-11-16",
+        "hora_inicio": 18,
+        "hora_fin": 23,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-11-17",
-        "hora_inicio": 2,
-        "hora_fin": 2,
+        "hora_inicio": 1,
+        "hora_fin": 1,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-11-18",
-        "hora_inicio": 8,
-        "hora_fin": 9,
+        "hora_inicio": 7,
+        "hora_fin": 8,
         "impacto_llamadas_adicionales": 0
       }
     ]
@@ -405,10 +416,6 @@
   },
   {
     "comuna": "Quinchao",
-    "rango_alertas": []
-  },
-  {
-    "comuna": "Ranquil",
     "rango_alertas": []
   },
   {
