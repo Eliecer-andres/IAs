@@ -5,13 +5,31 @@
       {
         "fecha": "2026-11-26",
         "hora_inicio": 17,
-        "hora_fin": 19,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       },
       {
         "fecha": "2026-11-27",
         "hora_inicio": 17,
         "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-11-28",
+        "hora_inicio": 18,
+        "hora_fin": 19,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-11-29",
+        "hora_inicio": 18,
+        "hora_fin": 18,
+        "impacto_llamadas_adicionales": 0
+      },
+      {
+        "fecha": "2026-11-30",
+        "hora_inicio": 18,
+        "hora_fin": 20,
         "impacto_llamadas_adicionales": 0
       }
     ]
